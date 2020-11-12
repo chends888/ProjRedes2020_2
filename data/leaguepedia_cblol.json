@@ -1,4 +1,70 @@
 {
+    "2017 - Split 1": {
+        "CNB e-Sports Club": ["Lep", "Minerva", "Yampi", "Tinowns", "pbO", "Wos", "Galfi"],
+        "INTZ": ["Ayel", "Turtle", "Envy", "micaO", "Jockster", "Claudio Godoi"],
+        "KaBuM! e-Sports": ["Zantins", "Danagorn", "Vash", "TitaN", "TheFoxz", "Riyev", "Neki"],
+        "Vivo Keyd": ["Yang", "Revolta", "takeshi", "esA", "Zirigui", "Lorenzo Jung"],
+        "Operation Kino": ["Aoshi", "Ranger", "Dynquedo", "Luskka", "BocaJR", "Dionrray"],
+        "paiN Gaming": ["Mylon", "Sirt", "Tay", "Kami", "Rakin", "Matsukaze", "Loop", "MiT"],
+        "RED Canids": ["Robo", "Nappon", "tockers", "brTT", "Dioud", "Gevous"],
+        "Brave e-Sports": ["Thulz", "4LaN", "Evrot", "Sarkis", "Cabu", "Erickão"]
+    },
+    "2017 - Split 1 Playoffs": {
+        "INTZ": ["Ayel", "Turtle", "Envy", "micaO", "Jockster", "Claudio Godoi"],
+        "Vivo Keyd": ["Yang", "Revolta", "takeshi", "esA", "Zirigui", "Lorenzo Jung"],
+        "paiN Gaming": ["Mylon", "Sirt", "Kami", "Matsukaze", "Loop", "MiT"],
+        "RED Canids": ["Robo", "Nappon", "YoDa", "tockers", "brTT", "Sacy", "Dioud", "Gevous"],
+    },
+    "2017 - Split 2": {
+        "CNB e-Sports Club": ["Lep", "Minerva", "Tinowns", "Vash", "pbO", "Wos", "Visdom", "Strong", "gafone"],
+        "INTZ": ["Ayel", "Turtle", "Shini", "Envy", "micaO", "Jockster", "Peter Dun"],
+        "Vivo Keyd": ["Yang", "Revolta", "takeshi", "esA", "Juzo", "Zirigui", "Abaxial"],
+        "paiN Gaming": ["Mylon", "Tay", "Kami", "Matsukaze", "Loop", "jUc"],
+        "ProGaming Esports": ["SkyBart", "Ranger", "Zuao", "Goku", "LUSKKA", "Professor", "Von"],
+        "RED Canids": ["Robo", "Nappon", "tockers", "brTT", "Sacy", "Dioud", "Rhuckz", "Brokenshard"],
+        "Team oNe eSports": ["VVvert", "4LaN", "Brucer", "Marf", "Absolut", "RedBert", "Neki"],
+        "T Show": ["b4dd", "Ferchu", "Danagorn", "Krastyel", "DudsTheBoy", "Theusma", "Ceos", "Piroxz"]
+    },
+    "2017 - Split 2 Playoffs": {
+        "INTZ": ["Ayel", "Turtle", "Shini", "Envy", "micaO", "Jockster", "Peter Dun"],
+        "paiN Gaming": ["Mylon", "Tay", "Kami", "Matsukaze", "Loop", "jUc"],
+        "RED Canids": ["Robo", "Nappon", "tockers", "brTT", "Sacy", "Rhuckz", "Galfi"],
+        "Team oNe eSports": ["VVvert", "4LaN", "Brucer", "Marf", "Absolut", "RedBert", "Neki"]
+    },
+    "2018 - Split 1": {
+        "CNB e-Sports Club": ["Robo", "Yampi", "Turtle", "Rakin", "pbO", "Baiano", "Loreviz", "Jimmy"],
+        "INTZ": ["Ayel", "Shini", "Envy", "Absolut", "Zirigui", "Maestro"],
+        "KaBuM! e-Sports": ["Zantins", "Ranger", "DyNquedo", "TitaN", "Riyev", "Nuddle"],
+        "paiN Gaming": ["takeshi", "Tay", "Tinowns", "Matsukaze", "Loop", "jUc", "Yaltz"],
+        "ProGaming Esports": ["SkyBart", "Minerva", "Goku", "Lynkotiko", "Luskka", "Professor", "BocaJR", "Djokovic"],
+        "RED Canids": ["Lep", "Winged", "Nappon", "Sky", "Sacy", "Cabu", "Icarus", "aledutra11", "Galfi"],
+        "Team oNe eSports": ["VVvert", "4LaN", "Prb", "Brucer", "Marf", "Lactea", "Steal", "RedBert", "Neki", "Jukaah"],
+        "Vivo Keyd": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Lorenzo Jung", "Abaxial"]
+    },
+    "2018 - Split 1 Playoffs": {
+        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev", "Nuddle"],
+        "RED Canids": ["Lep", "Winged", "Sky", "Sacy", "Cabu", "Galfi"],
+        "Vivo Keyd": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Abaxial"],
+        "CNB e-Sports Club": ["Robo", "Yampi", "Turtle", "Rakin", "pbO", "Baiano", "Jimmy"],
+        "ProGaming Esports": ["SkyBart", "Minerva", "Goku", "Luskka", "Professor", "Djokovic"]
+    },
+    "2018 - Split 2": {
+        "CNB e-Sports Club": ["Robo", "Turtle", "Yampi", "Hyoga", "Brucer", "Rakin", "pbO", "bydeki", "Baiano", "Jimmy"],
+        "Flamengo eSportsT": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "MiT", "Von"],
+        "IDM Gaming": ["Fitz", "Cariok", "Anyyy", "Sarkis", "Cabu", "ScrappyDoo"],
+        "INTZ": ["Tay", "Shini", "Envy", "Absolut", "Mills", "RedBert", "Maynah", "Maestro"],
+        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Wos", "Riyev", "Halier", "Hiro"],
+        "ProGaming Esports": ["SkyBart", "Minerva", "Lynkotiko", "VVvert", "Luskka", "Professor", "Dionrray"],
+        "RED Canids": ["Lep", "Chaser", "Sky", "Sacy", "Loop", "Abaxial", "Coelho"],
+        "Vivo Keyd": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Galfi"]
+    },
+    "2018 - Split 2 Playoffs": {
+        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev","Hiro"],
+        "Flamengo eSportsT": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "Von"],
+        "CNB e-Sports Club": ["Robo", "Turtle", "Yampi", "Brucer", "Rakin", "Baiano", "Jimmy"],
+        "IDM Gaming": ["Fitz", "Cariok", "Anyyy", "Sarkis", "Cabu", "ScrappyDoo"],
+        "Vivo Keyd": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Galfi"]
+    },
     "2019 - Split 1": {
         "Flamengo eSports": ["Robo", "Shrimp", "Goku", "brTT", "Luci", "Von", "Lyric"],
         "INTZ": ["Tay", "Lynx", "Shini", "Sephis", "Envy", "Hauz", "WhiteLotus", "Mills", "RedBert", "BocaJR", "Maestro", "ONMETA"],
