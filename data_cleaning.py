@@ -4,56 +4,56 @@ import math
 import random
 import numpy as np
 import statistics
+from collections import defaultdict
+
 
 
 splits = pd.read_json('data/leaguepedia_cblol.json')
-# schools.info()
+
+
+teams = list(splits.index.values)
+players_teams = defaultdict(list)
+cols = list(splits)
+
+# Build all players teams along Splits
+for col_idx in range(len(list(splits))):
+    for row_idx, team in enumerate(teams):
+        if type(splits.iloc[row_idx, col_idx]) == list:
+            for player in splits.iloc[row_idx, col_idx]:
+                players_teams[player.lower()].append(team)
+print(len(players_teams))
+
+# Remove duplicates maintaining order
+# https://blog.finxter.com/how-to-remove-duplicates-from-a-python-list-while-preserving-order/
+for key, value in players_teams.items():
+    players_teams[key] = list(dict.fromkeys(value))
+
+# Build edges between teams
+teams_edges = []
+for _, player_teams in players_teams.items():
+    if len(player_teams) > 1:
+        for i in range(len(player_teams) - 1):
+            teams_edges.append((player_teams[i], player_teams[i+1]))
+
+# Remove duplicates maintaining order
+teams_edges = list(dict.fromkeys(teams_edges))
 
 
 
-es = schools[schools['Elementary, Middle, or High School'] == 'ES']
-es = es.dropna(subset=['ISAT Value Add Math'])
-print('Total elementary schools:', len(es))
-# print(es['ISAT Value Add Math'].values.tolist())
-# es.describe()
+file = 'data/lol_teams.gml'
 
-# Remove n rows
-# drop_indices = np.random.choice(es.index, int(len(es)/1.5), replace=False)
-# es = es.drop(drop_indices)
-print('Sample:', len(es))
+with open(file, 'w') as f:
+    tmp = 'graph [\n  directed 1\n'
 
-
-
-
-
-distances = []
-for i in range(len(es)):
-#     percentage = round(i/len(es)*100, 2)
-    # Loop for second school, avoiding repetitions (eg. school1-school2 and school2-school1)
-    for j in range(i+1, len(es)):
-        school1 = es.iloc[i]
-        school2 = es.iloc[j]
-        distances.append(Haversine(school1['Latitude'], school1['Longitude'], school2['Latitude'], school2['Longitude']))
-    print('{}/{}'.format(i+1, len(es)), end='\r')
-print('\nDone')
-
-filename = 'data/schools.gml'
-
-# TODO review edges
-median = np.median(distances)/2
-# stdev = statistics.stdev(distances)/2
-with open(filename, 'w') as f:
-    tmp = 'graph [\n  directed 0\n'
-
-    for i in range(len(es)):
-        tmp += '  node [\n    id ' + str(es.iloc[i]['School ID']) + '\n    isatm "' + str(es.iloc[i]['ISAT Value Add Math']) + '"\n  ]\n'
+    for team in teams:
+        tmp += '  node [\n    id "' + team + '"\n    perf "' + "PLACEHOLDER" + '"\n  ]\n'
 
     f.write(tmp)
-    for i in range(len(es)):
-        for j in range(i+1, len(es)):
-            if (Haversine(es.iloc[i]['Latitude'], es.iloc[i]['Longitude'], es.iloc[j]['Latitude'], es.iloc[j]['Longitude']) < median):
-                f.write('  edge [\n    source ' + str(es.iloc[i]['School ID']) +'\n    target ' + str(es.iloc[j]['School ID']) +'\n  ]\n')
-        print('{}/{}'.format(i+1, len(es)), end='\r')
+
+    for edge in teams_edges:
+        # for j in range(i+1, len(es)):
+            f.write('  edge [\n    source "' + edge[0] +'"\n    target "' + edge[1] +'"\n  ]\n')
+        # print('{}/{}'.format(i+1, len(es)), end='\r')
 
     f.write(']')
     print('\nDone')
