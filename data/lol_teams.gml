@@ -1,151 +1,360 @@
 graph [
   directed 1
+
   node [
-    id "Flamengo eSports"
-    perf "PLACEHOLDER"
-  ]
-  node [
-    id "INTZ"
-    perf "PLACEHOLDER"
+    id 0
+    label "CNB e-Sports Club"
+    perf 0.3622222222222222
   ]
   node [
-    id "Redemption POA"
-    perf "PLACEHOLDER"
+    id 1
+    label "INTZ"
+    perf 0.5146153846153846
   ]
   node [
-    id "CNB e-Sports Club"
-    perf "PLACEHOLDER"
+    id 2
+    label "KaBuM! e-Sports"
+    perf 0.5758333333333333
   ]
   node [
-    id "FURIA Esports (Uppercut esports)"
-    perf "PLACEHOLDER"
+    id 3
+    label "Vivo Keyd"
+    perf 0.46636363636363637
   ]
   node [
-    id "KaBuM! e-Sports"
-    perf "PLACEHOLDER"
+    id 4
+    label "Operation Kino"
+    perf 0.29
   ]
   node [
-    id "Vivo Keyd"
-    perf "PLACEHOLDER"
+    id 5
+    label "paiN Gaming"
+    perf 0.49666666666666676
   ]
   node [
-    id "ProGaming Esports"
-    perf "PLACEHOLDER"
+    id 6
+    label "RED Canids"
+    perf 0.6171428571428571
   ]
   node [
-    id "paiN Gaming"
-    perf "PLACEHOLDER"
+    id 7
+    label "Brave e-Sports"
+    perf 0.21
   ]
   node [
-    id "Team oNe eSports"
-    perf "PLACEHOLDER"
+    id 8
+    label "ProGaming Esports"
+    perf 0.39200000000000007
   ]
   node [
-    id "Prodigy Esports"
-    perf "PLACEHOLDER"
+    id 9
+    label "Team oNe eSports"
+    perf 0.47000000000000003
   ]
   node [
-    id "Santos e-Sports"
-    perf "PLACEHOLDER"
+    id 10
+    label "Redemption POA (T Show)"
+    perf 0.318
+  ]
+  node [
+    id 11
+    label "Flamengo eSports"
+    perf 0.6588888888888889
+  ]
+  node [
+    id 12
+    label "IDM Gaming"
+    perf 0.23500000000000001
+  ]
+  node [
+    id 13
+    label "FURIA Esports (Uppercut esports)"
+    perf 0.31666666666666665
+  ]
+  node [
+    id 14
+    label "Prodigy Esports"
+    perf 0.48
+  ]
+  node [
+    id 15
+    label "Santos e-Sports"
+    perf 0.52
   ]
   edge [
-    source "Flamengo eSports"
-    target "Vivo Keyd"
+    source 0
+    target 6
   ]
   edge [
-    source "Vivo Keyd"
-    target "paiN Gaming"
+    source 0
+    target 8
   ]
   edge [
-    source "Flamengo eSports"
-    target "paiN Gaming"
+    source 8
+    target 5
   ]
   edge [
-    source "Flamengo eSports"
-    target "Redemption POA"
+    source 5
+    target 13
   ]
   edge [
-    source "INTZ"
-    target "Redemption POA"
+    source 13
+    target 3
   ]
   edge [
-    source "Redemption POA"
-    target "INTZ"
+    source 0
+    target 14
   ]
   edge [
-    source "Redemption POA"
-    target "KaBuM! e-Sports"
+    source 0
+    target 5
   ]
   edge [
-    source "Redemption POA"
-    target "FURIA Esports (Uppercut esports)"
+    source 0
+    target 2
   ]
   edge [
-    source "CNB e-Sports Club"
-    target "Prodigy Esports"
+    source 2
+    target 8
   ]
   edge [
-    source "CNB e-Sports Club"
-    target "Santos e-Sports"
+    source 8
+    target 14
   ]
   edge [
-    source "CNB e-Sports Club"
-    target "Vivo Keyd"
+    source 6
+    target 3
   ]
   edge [
-    source "KaBuM! e-Sports"
-    target "Flamengo eSports"
+    source 1
+    target 5
   ]
   edge [
-    source "KaBuM! e-Sports"
-    target "Prodigy Esports"
+    source 1
+    target 0
   ]
   edge [
-    source "paiN Gaming"
-    target "KaBuM! e-Sports"
+    source 0
+    target 3
   ]
   edge [
-    source "Vivo Keyd"
-    target "INTZ"
+    source 1
+    target 3
   ]
   edge [
-    source "Vivo Keyd"
-    target "Redemption POA"
+    source 3
+    target 10
   ]
   edge [
-    source "ProGaming Esports"
-    target "Prodigy Esports"
+    source 2
+    target 10
   ]
   edge [
-    source "ProGaming Esports"
-    target "Team oNe eSports"
+    source 2
+    target 0
   ]
   edge [
-    source "Team oNe eSports"
-    target "Flamengo eSports"
+    source 2
+    target 9
   ]
   edge [
-    source "ProGaming Esports"
-    target "paiN Gaming"
+    source 3
+    target 5
   ]
   edge [
-    source "FURIA Esports (Uppercut esports)"
-    target "Santos e-Sports"
+    source 5
+    target 2
   ]
   edge [
-    source "paiN Gaming"
-    target "FURIA Esports (Uppercut esports)"
+    source 3
+    target 2
   ]
   edge [
-    source "FURIA Esports (Uppercut esports)"
-    target "Vivo Keyd"
+    source 5
+    target 9
   ]
   edge [
-    source "paiN Gaming"
-    target "Flamengo eSports"
+    source 3
+    target 11
   ]
   edge [
-    source "INTZ"
-    target "FURIA Esports (Uppercut esports)"
+    source 11
+    target 5
+  ]
+  edge [
+    source 3
+    target 1
+  ]
+  edge [
+    source 4
+    target 1
+  ]
+  edge [
+    source 4
+    target 8
+  ]
+  edge [
+    source 8
+    target 2
+  ]
+  edge [
+    source 2
+    target 11
+  ]
+  edge [
+    source 4
+    target 2
+  ]
+  edge [
+    source 2
+    target 14
+  ]
+  edge [
+    source 8
+    target 9
+  ]
+  edge [
+    source 9
+    target 11
+  ]
+  edge [
+    source 8
+    target 1
+  ]
+  edge [
+    source 1
+    target 10
+  ]
+  edge [
+    source 5
+    target 1
+  ]
+  edge [
+    source 5
+    target 0
+  ]
+  edge [
+    source 5
+    target 6
+  ]
+  edge [
+    source 5
+    target 11
+  ]
+  edge [
+    source 6
+    target 0
+  ]
+  edge [
+    source 0
+    target 11
+  ]
+  edge [
+    source 11
+    target 3
+  ]
+  edge [
+    source 6
+    target 11
+  ]
+  edge [
+    source 7
+    target 9
+  ]
+  edge [
+    source 7
+    target 12
+  ]
+  edge [
+    source 12
+    target 15
+  ]
+  edge [
+    source 7
+    target 6
+  ]
+  edge [
+    source 6
+    target 12
+  ]
+  edge [
+    source 3
+    target 15
+  ]
+  edge [
+    source 3
+    target 6
+  ]
+  edge [
+    source 6
+    target 10
+  ]
+  edge [
+    source 10
+    target 2
+  ]
+  edge [
+    source 1
+    target 13
+  ]
+  edge [
+    source 8
+    target 10
+  ]
+  edge [
+    source 10
+    target 1
+  ]
+  edge [
+    source 8
+    target 11
+  ]
+  edge [
+    source 8
+    target 3
+  ]
+  edge [
+    source 11
+    target 10
+  ]
+  edge [
+    source 9
+    target 8
+  ]
+  edge [
+    source 9
+    target 0
+  ]
+  edge [
+    source 9
+    target 1
+  ]
+  edge [
+    source 1
+    target 11
+  ]
+  edge [
+    source 10
+    target 13
+  ]
+  edge [
+    source 0
+    target 13
+  ]
+  edge [
+    source 13
+    target 15
+  ]
+  edge [
+    source 12
+    target 13
+  ]
+  edge [
+    source 12
+    target 5
+  ]
+  edge [
+    source 0
+    target 15
   ]
 ]

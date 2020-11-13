@@ -13,7 +13,7 @@
         "INTZ": ["Ayel", "Turtle", "Envy", "micaO", "Jockster", "Claudio Godoi"],
         "Vivo Keyd": ["Yang", "Revolta", "takeshi", "esA", "Zirigui", "Lorenzo Jung"],
         "paiN Gaming": ["Mylon", "Sirt", "Kami", "Matsukaze", "Loop", "MiT"],
-        "RED Canids": ["Robo", "Nappon", "YoDa", "tockers", "brTT", "Sacy", "Dioud", "Gevous"],
+        "RED Canids": ["Robo", "Nappon", "YoDa", "tockers", "brTT", "Sacy", "Dioud", "Gevous"]
     },
     "2017 - Split 2": {
         "CNB e-Sports Club": ["Lep", "Minerva", "Tinowns", "Vash", "pbO", "Wos", "Visdom", "Strong", "gafone"],
@@ -23,7 +23,7 @@
         "ProGaming Esports": ["SkyBart", "Ranger", "Zuao", "Goku", "LUSKKA", "Professor", "Von"],
         "RED Canids": ["Robo", "Nappon", "tockers", "brTT", "Sacy", "Dioud", "Rhuckz", "Brokenshard"],
         "Team oNe eSports": ["VVvert", "4LaN", "Brucer", "Marf", "Absolut", "RedBert", "Neki"],
-        "T Show": ["b4dd", "Ferchu", "Danagorn", "Krastyel", "DudsTheBoy", "Theusma", "Ceos", "Piroxz"]
+        "Redemption POA (T Show)": ["b4dd", "Ferchu", "Danagorn", "Krastyel", "DudsTheBoy", "Theusma", "Ceos", "Piroxz"]
     },
     "2017 - Split 2 Playoffs": {
         "INTZ": ["Ayel", "Turtle", "Shini", "Envy", "micaO", "Jockster", "Peter Dun"],
@@ -50,7 +50,7 @@
     },
     "2018 - Split 2": {
         "CNB e-Sports Club": ["Robo", "Turtle", "Yampi", "Hyoga", "Brucer", "Rakin", "pbO", "bydeki", "Baiano", "Jimmy"],
-        "Flamengo eSportsT": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "MiT", "Von"],
+        "Flamengo eSports": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "MiT", "Von"],
         "IDM Gaming": ["Fitz", "Cariok", "Anyyy", "Sarkis", "Cabu", "ScrappyDoo"],
         "INTZ": ["Tay", "Shini", "Envy", "Absolut", "Mills", "RedBert", "Maynah", "Maestro"],
         "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Wos", "Riyev", "Halier", "Hiro"],
@@ -60,7 +60,7 @@
     },
     "2018 - Split 2 Playoffs": {
         "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev","Hiro"],
-        "Flamengo eSportsT": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "Von"],
+        "Flamengo eSports": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "Von"],
         "CNB e-Sports Club": ["Robo", "Turtle", "Yampi", "Brucer", "Rakin", "Baiano", "Jimmy"],
         "IDM Gaming": ["Fitz", "Cariok", "Anyyy", "Sarkis", "Cabu", "ScrappyDoo"],
         "Vivo Keyd": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Galfi"]
@@ -68,7 +68,7 @@
     "2019 - Split 1": {
         "Flamengo eSports": ["Robo", "Shrimp", "Goku", "brTT", "Luci", "Von", "Lyric"],
         "INTZ": ["Tay", "Lynx", "Shini", "Sephis", "Envy", "Hauz", "WhiteLotus", "Mills", "RedBert", "BocaJR", "Maestro", "ONMETA"],
-        "Redemption POA": ["Nyu", "Zuao", "Days4fun", "Krastyel", "DudsTheBoy", "Ceos", "Piroxz"],
+        "Redemption POA (T Show)": ["Nyu", "Zuao", "Days4fun", "Krastyel", "DudsTheBoy", "Ceos", "Piroxz"],
         "CNB e-Sports Club": ["Duclou", "Yampi", "Aslan", "pbO", "Hawk", "Turtle", "BeellzY"],
         "FURIA Esports (Uppercut esports)": ["Fitz", "LeChase", "Anyyy", "Alternative", "Damage", "ScrappyDoo", "RafaP"],
         "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev", "Tabe", "Hiro", "Halier"],
@@ -78,7 +78,7 @@
     "2019 - Split 1 Playoffs": {
         "Flamengo eSports": ["Robo", "Shrimp", "Goku", "brTT", "Luci", "Von", "Lyric"],
         "INTZ": ["Tay", "Shini", "Envy", "Mills", "RedBert", "Maestro", "ONMETA"],
-        "Redemption POA": ["Nyu", "Zuao", "Krastyel", "DudsTheBoy", "Ceos", "Piroxz"],
+        "Redemption POA (T Show)": ["Nyu", "Zuao", "Krastyel", "DudsTheBoy", "Ceos", "Piroxz"],
         "CNB e-Sports Club": ["Duclou", "Yampi", "Aslan", "pbO", "Hawk", "Turtle", "BeellzY"]
     },
     "2019 - Split 2": {
@@ -87,7 +87,7 @@
         "INTZ": ["Mills", "Tay", "Aoshi", "Shini", "Envy", "micaO", "RedBert", "Maestro", "ONMETA"],
         "FURIA Esports (Uppercut esports)": ["Fitz", "LeChase", "Hyoga", "Anyyy", "Alternative", "Damage", "RafaP", "ScrappyDoo"],
         "paiN Gaming": ["Yang", "Ayel", "Minerva", "tinowns", "Matsukaze", "esA", "Dionrray", "Djokovic"],
-        "Redemption POA": ["Nyu", "Glow", "Zuao", "Days4fun", "Krastymel", "WhiteLotus", "Jockster", "Codpiece", "Abaxial", "Piroxz"],
+        "Redemption POA (T Show)": ["Nyu", "Glow", "Zuao", "Days4fun", "Krastymel", "WhiteLotus", "Jockster", "Codpiece", "Abaxial", "Piroxz"],
         "CNB e-Sports Club": ["Duclou", "Mewkyo", "Freire", "Mental", "Aslan", "pbO", "Hawk", "Vahvel", "Turtle", "BeellzY"],
         "Team oNe eSports": ["SkyBart", "klowny", "Ryuzaki", "4Lan", "Takeshi", "Brucer", "Luskka", "Jojo", "Neki", "Spale"]
     },
@@ -104,7 +104,7 @@
         "KaBuM! e-Sports" : ["Parang", "Wiz", "Tutsz", "Disave", "DudsTheBoy", "Ceos", "Kake", "Abaxial"],
         "paiN Gaming" : ["Yang", "SeongHwan", "tinowns", "brTT", "Key", "Xero", "Dionrray"],
         "Prodigy Esports" : ["fNb", "Yampi", "Aloned", "Garo", "Wos", "Kalec", "Alocs"],
-        "Redemption POA" : ["Nyu", "Glow", "BalKhan", "Sephis", "Krastyel", "Aithusa", "Save", "BocaJR", "Scuro", "Von", "Nishikino"],
+        "Redemption POA (T Show)" : ["Nyu", "Glow", "BalKhan", "Sephis", "Krastyel", "Aithusa", "Save", "BocaJR", "Scuro", "Von", "Nishikino"],
         "Vivo Keyd" : ["Robo", "Grell", "Caos", "NOsFerus", "Klaus", "Professor", "Turtle", "BeellzY"]
     },
     "2020 - Split 1 Playoffs": {
