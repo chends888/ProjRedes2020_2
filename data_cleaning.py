@@ -9,7 +9,6 @@ splits_players = pd.read_json('data/leaguepedia_cblol.json')
 splits_perf = pd.read_json('data/leaguepedia_cblol_perf.json')
 
 
-
 teams = list(splits_players.index.values)
 teams_dict = {}
 for team_id, team in enumerate(teams):
@@ -27,14 +26,6 @@ for row_idx in teams_dict.keys():
 for key, value in teams_perf.items():
     teams_perf[key] = [x for x in teams_perf[key] if x != 'nan']
     teams_dict[key].append(sum(teams_perf[key]) / len(teams_perf[key]))
-
-# teams_perf.dropna().unique().tolist()
-# print(teams_perf)
-# for key, value in teams_perf.items():
-#     for x in value:
-#         if(x != 'nan'):
-            # print(type(x))
-print(teams_perf)
 
 # Build all players teams along Splits
 players_teams = defaultdict(list)
@@ -73,7 +64,7 @@ with open(file, 'w') as f:
     f.write(tmp)
 
     for edge in teams_edges:
-            f.write('  edge [\n    source ' + str(edge[0]) +'\n    target ' + str(edge[1]) +'\n  ]\n')
+            f.write('  edge [\n    source ' + str(edge[1]) +'\n    target ' + str(edge[0]) +'\n  ]\n')
 
     f.write(']')
     print('\nDone')
