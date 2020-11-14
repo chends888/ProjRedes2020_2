@@ -1,13 +1,11 @@
 import pandas as pd
 from collections import defaultdict
 
-
 # Team's players for the respective splits
 splits_players = pd.read_json('data/leaguepedia_cblol.json')
 
 # Team's performance to the respective splits
 splits_perf = pd.read_json('data/leaguepedia_cblol_perf.json')
-
 
 teams = list(splits_players.index.values)
 teams_dict = {}
@@ -36,6 +34,7 @@ for col_idx in range(len(list(splits_players))):
                 players_teams[player.lower()].append(row_idx)
 print("Players:", len(players_teams))
 print("Teams:", len(teams))
+
 # Remove duplicates maintaining order
 # https://blog.finxter.com/how-to-remove-duplicates-from-a-python-list-while-preserving-order/
 for key, value in players_teams.items():
@@ -53,9 +52,9 @@ teams_edges = list(dict.fromkeys(teams_edges))
 print("Edges:", len(teams_edges))
 
 
-file = 'data/lol_teams.gml'
+filename = 'data/lol_teams.gml'
 
-with open(file, 'w') as f:
+with open(filename, 'w') as f:
     tmp = 'graph [\n  directed 1\n\n'
 
     for team_id, value in teams_dict.items():

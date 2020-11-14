@@ -1,5 +1,4 @@
 # Ignore large data files
 
-**/crossfit
 **/__pycache__
 **/.ipynb_checkpoints
