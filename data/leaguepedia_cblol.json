@@ -39,7 +39,7 @@
         "CNB e-Sports Club": ["Aoshi", "Nappon", "YoDa", "pbO", "Wos", "Djookovic"],
         "g3nerationX": ["Zantins", "Snowlz", "Tay", "Skyer", "Alocs", "Transao"],
         "INTZ": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Abaxial"],
-        "KaBuM! e-Sports": ["Lep", "Minerva", "tinowns", "Matsukaze", "Zirigui", "Galfi"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Lep", "Minerva", "tinowns", "Matsukaze", "Zirigui", "Galfi"],
         "Vivo Keyd (Keyd Stars)": ["Robo", "Turtle", "takeshi", "esA", "Baiano", "Verfix", "Jukaah"],
         "Operation Kino": ["SkyBart", "Zuao", "Goku", "Theusma", "Professor", "Von"],
         "paiN Gaming": ["Mylon", "Leko", "Sirt", "Kami", "brTT", "TheFoxz", "Picoca", "MiT"],
@@ -49,7 +49,7 @@
         "CNB e-Sports Club": ["Aoshi", "Nappon", "Vash", "pbO", "Wos"],
         "g3nerationX": ["Zantins", "Snowlz", "Tay", "Skyer", "Alocs"],
         "INTZ": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Peter Dun"],
-        "KaBuM! e-Sports": ["Lep", "Minerva", "tinowns", "Matsukaze", "Zirigui", "Galfi"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Lep", "Minerva", "tinowns", "Matsukaze", "Zirigui", "Galfi"],
         "Vivo Keyd (Keyd Stars)": ["Robo", "Turtle", "takeshi", "esA", "Baiano", "Jukaah"],
         "Operation Kino": ["SkyBart", "Zuao", "Goku", "EzPrince", "Professor"],
         "paiN Gaming": ["Mylon", "Sirt", "Kami", "brTT", "Picoca"],
@@ -59,7 +59,7 @@
         "Big Gods": ["Ranger", "Tierwulf", "Rakin", "Luskka", "RedBert"],
         "CNB e-Sports Club": ["Lep", "Minerva", "tinowns", "pbO", "Wos"],
         "INTZ": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Peter Dun"],
-        "KaBuM! e-Sports": ["Zantins", "VVert", "Danagorn", "Zuao", "Vash", "Matsukaze", "Verfix"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "VVert", "Danagorn", "Zuao", "Vash", "Matsukaze", "Verfix"],
         "Vivo Keyd (Keyd Stars)": ["Robo", "Nappon", "takeshi", "esA", "Baiano"],
         "Operation Kino": ["SkyBart", "Turtle", "Goku", "Skyer", "Professor"],
         "paiN Gaming": ["Mylon", "Sirt", "Kami", "Tay", "Zirigui"],
@@ -76,7 +76,7 @@
     "2017 - Split 1": {
         "CNB e-Sports Club": ["Lep", "Minerva", "Yampi", "Tinowns", "pbO", "Wos", "Galfi"],
         "INTZ": ["Ayel", "Turtle", "Envy", "micaO", "Jockster", "Claudio Godoi"],
-        "KaBuM! e-Sports": ["Zantins", "Danagorn", "Vash", "TitaN", "TheFoxz", "Riyev", "Neki"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "Danagorn", "Vash", "TitaN", "TheFoxz", "Riyev", "Neki"],
         "Vivo Keyd (Keyd Stars)": ["Yang", "Revolta", "takeshi", "esA", "Zirigui", "Lorenzo Jung"],
         "Operation Kino": ["Aoshi", "Ranger", "Dynquedo", "Luskka", "BocaJR", "Dionrray"],
         "paiN Gaming": ["Mylon", "Sirt", "Tay", "Kami", "Rakin", "Matsukaze", "Loop", "MiT"],
@@ -108,7 +108,7 @@
     "2018 - Split 1": {
         "CNB e-Sports Club": ["Robo", "Yampi", "Turtle", "Rakin", "pbO", "Baiano", "Loreviz", "Jimmy"],
         "INTZ": ["Ayel", "Shini", "Envy", "Absolut", "Zirigui", "Maestro"],
-        "KaBuM! e-Sports": ["Zantins", "Ranger", "DyNquedo", "TitaN", "Riyev", "Nuddle"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "Ranger", "DyNquedo", "TitaN", "Riyev", "Nuddle"],
         "paiN Gaming": ["takeshi", "Tay", "Tinowns", "Matsukaze", "Loop", "jUc", "Yaltz"],
         "ProGaming Esports": ["SkyBart", "Minerva", "Goku", "Lynkotiko", "Luskka", "Professor", "BocaJR", "Djokovic"],
         "RED Canids": ["Lep", "Winged", "Nappon", "Sky", "Sacy", "Cabu", "Icarus", "aledutra11", "Galfi"],
@@ -116,7 +116,7 @@
         "Vivo Keyd (Keyd Stars)": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Lorenzo Jung", "Abaxial"]
     },
     "2018 - Split 1 Playoffs": {
-        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev", "Nuddle"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev", "Nuddle"],
         "RED Canids": ["Lep", "Winged", "Sky", "Sacy", "Cabu", "Galfi"],
         "Vivo Keyd (Keyd Stars)": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Abaxial"],
         "CNB e-Sports Club": ["Robo", "Yampi", "Turtle", "Rakin", "pbO", "Baiano", "Jimmy"],
@@ -127,13 +127,13 @@
         "Flamengo eSports": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "MiT", "Von"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": ["Fitz", "Cariok", "Anyyy", "Sarkis", "Cabu", "ScrappyDoo"],
         "INTZ": ["Tay", "Shini", "Envy", "Absolut", "Mills", "RedBert", "Maynah", "Maestro"],
-        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Wos", "Riyev", "Halier", "Hiro"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Wos", "Riyev", "Halier", "Hiro"],
         "ProGaming Esports": ["SkyBart", "Minerva", "Lynkotiko", "VVvert", "Luskka", "Professor", "Dionrray"],
         "RED Canids": ["Lep", "Chaser", "Sky", "Sacy", "Loop", "Abaxial", "Coelho"],
         "Vivo Keyd (Keyd Stars)": ["Yang", "Revolta", "tockers", "micaO", "Jockster", "Galfi"]
     },
     "2018 - Split 2 Playoffs": {
-        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev","Hiro"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev","Hiro"],
         "Flamengo eSports": ["Jisu", "Shrimp", "Goku", "brTT", "esA", "Von"],
         "CNB e-Sports Club": ["Robo", "Turtle", "Yampi", "Brucer", "Rakin", "Baiano", "Jimmy"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": ["Fitz", "Cariok", "Anyyy", "Sarkis", "Cabu", "ScrappyDoo"],
@@ -145,7 +145,7 @@
         "Redemption POA (T Show)": ["Nyu", "Zuao", "Days4fun", "Krastyel", "DudsTheBoy", "Ceos", "Piroxz"],
         "CNB e-Sports Club": ["Duclou", "Yampi", "Aslan", "pbO", "Hawk", "Turtle", "BeellzY"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": ["Fitz", "LeChase", "Anyyy", "Alternative", "Damage", "ScrappyDoo", "RafaP"],
-        "KaBuM! e-Sports": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev", "Tabe", "Hiro", "Halier"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Zantins", "Ranger", "dyNquedo", "TitaN", "Riyev", "Tabe", "Hiro", "Halier"],
         "Vivo Keyd (Keyd Stars)": ["Yang", "Laba", "Caos", "tockers", "Klaus", "micaO", "Professor", "Jockster", "Nelson"],
         "ProGaming Esports": ["fNb", "Lima", "Leozuxo", "Lynkotiko", "Luskka", "Garo", "Wos", "Utama", "Dionrray"]
     },
@@ -157,7 +157,7 @@
     },
     "2019 - Split 2": {
         "Flamengo eSports": ["Robo", "Shrimp", "Goku", "brTT", "Luci", "Reven", "Von", "Lyric"],
-        "KaBuM! e-Sports": ["Wizer", "Ranger", "dyNquedo", "DudsTheBoy", "Disave", "Ceos", "Hiro"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Wizer", "Ranger", "dyNquedo", "DudsTheBoy", "Disave", "Ceos", "Hiro"],
         "INTZ": ["Mills", "Tay", "Aoshi", "Shini", "Envy", "micaO", "RedBert", "Maestro", "ONMETA"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": ["Fitz", "LeChase", "Hyoga", "Anyyy", "Alternative", "Damage", "RafaP", "ScrappyDoo"],
         "paiN Gaming": ["Yang", "Ayel", "Minerva", "tinowns", "Matsukaze", "esA", "Dionrray", "Djokovic"],
@@ -166,7 +166,7 @@
         "Team oNe eSports": ["SkyBart", "klowny", "Ryuzaki", "4Lan", "Takeshi", "Brucer", "Luskka", "Jojo", "Neki", "Spale"]
     },
     "2019 - Split 2 Playoffs": {
-        "KaBuM! e-Sports": ["Wizer", "Ranger", "dyNquedo", "DudsTheBoy", "Ceos", "Hiro"],
+        "KaBuM! e-Sports (KaBuM! Orange)": ["Wizer", "Ranger", "dyNquedo", "DudsTheBoy", "Ceos", "Hiro"],
         "INTZ": ["Tay", "Shini", "Envy", "micaO", "RedBert", "Maestro", "ONMETA"],
         "Flamengo eSports": ["Robo", "Shrimp", "Goku", "brTT", "Luci", "Von", "Grey"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": ["Fitz", "LeChase", "Anyyy", "Alternative", "Damage", "RafaP", "ScrappyDoo"]
@@ -175,7 +175,7 @@
         "Flamengo eSports" : ["WooFe", "Ranger", "Goku", "Absolut", "Luci", "JoJo", "Djokovic", "Stardust", "Reven"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])" : ["Fitz", "Tyrin", "Minerva", "st1ng", "Anyyy", "Alternative", "Stepz", "Damage", "Piroxz", "ScrappyDoo"],
         "INTZ" : ["Tay", "Tianci", "Shini", "Zuao", "Envy", "Hauz", "Mills", "micaO", "RedBert", "Jockster", "Maestro", "jUc", "ONMETA"],
-        "KaBuM! e-Sports" : ["Parang", "Wiz", "Tutsz", "Disave", "DudsTheBoy", "Ceos", "Kake", "Abaxial"],
+        "KaBuM! e-Sports (KaBuM! Orange)" : ["Parang", "Wiz", "Tutsz", "Disave", "DudsTheBoy", "Ceos", "Kake", "Abaxial"],
         "paiN Gaming" : ["Yang", "SeongHwan", "tinowns", "brTT", "Key", "Xero", "Dionrray"],
         "Prodigy Esports" : ["fNb", "Yampi", "Aloned", "Garo", "Wos", "Kalec", "Alocs"],
         "Redemption POA (T Show)" : ["Nyu", "Glow", "BalKhan", "Sephis", "Krastyel", "Aithusa", "Save", "BocaJR", "Scuro", "Von", "Nishikino"],
@@ -184,14 +184,14 @@
     "2020 - Split 1 Playoffs": {
         "Flamengo eSports" : ["WooFe", "Ranger", "Goku", "Absolut", "JoJo", "Djokovic", "Reven"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])" : ["Tyrin", "Minerva", "Anyyy", "Alternative", "Damage", "Piroxz", "ScrappyDoo"],
-        "KaBuM! e-Sports" : ["Parang", "Wiz", "Tutsz", "DudsTheBoy", "Ceos", "Abaxial"],
+        "KaBuM! e-Sports (KaBuM! Orange)" : ["Parang", "Wiz", "Tutsz", "DudsTheBoy", "Ceos", "Abaxial"],
         "Vivo Keyd (Keyd Stars)" : ["Robo", "Grell", "NOsFerus", "Klaus", "Professor", "Turtle", "BeellzY"]
     },
     "2020 - Split 2": {
         "Flamengo eSports" : ["Bankai", "Ranger", "Goku", "Luskka", "Bvoy", "Reven", "Luci", "Djokovic", "Nuddle"],
         "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])" : ["tyrin", "st1ng", "Anyyy", "Titeito", "Alternative", "Stepz", "Damage", "ProDelta", "Piroxz", "jUc"],
         "INTZ" : ["Tay", "Yupps", "Shini", "Accez", "Envy", "Hanor", "micaO", "Mills", "RedBert", "Bounty", "Maestro", "ONMETA"],
-        "KaBuM! e-Sports" : ["Yang", "Revolta", "Tutsz", "DudsTheBoy", "Disave", "Ceos", "Abaxial"],
+        "KaBuM! e-Sports (KaBuM! Orange)" : ["Yang", "Revolta", "Tutsz", "DudsTheBoy", "Disave", "Ceos", "Abaxial"],
         "paiN Gaming" : ["Robo", "CarioK", "tinowns", "brTT", "esA", "Xero", "Dionrray"],
         "Prodigy Esports" : ["fNb", "Yampi", "dyNquedo", "Garo", "Wos", "Kalec", "Alocs"],
         "Santos e-Sports" : ["JackPoT", "Aryze", "Hyoga", "Mewkyo", "Rainbow", "Juzo", "Sarkis", "Hawk", "Mora", "Patron"],
@@ -199,7 +199,7 @@
     },
     "2020 - Split 2 Playoffs": {
         "INTZ" : ["Tay", "Shini", "Envy", "micaO", "RedBert", "Maestro", "ONMETA"],
-        "KaBuM! e-Sports" : ["Yang", "Revolta", "Tutsz", "DudsTheBoy", "Ceos", "Abaxial"],
+        "KaBuM! e-Sports (KaBuM! Orange)" : ["Yang", "Revolta", "Tutsz", "DudsTheBoy", "Ceos", "Abaxial"],
         "paiN Gaming" : ["Robo", "CarioK", "tinowns", "brTT", "esA", "Xero", "Dionrray"],
         "Prodigy Esports" : ["fNb", "Yampi", "dyNquedo", "Garo", "Wos", "Kalec", "Alocs"]
     }
