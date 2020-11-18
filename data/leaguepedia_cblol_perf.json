@@ -85,10 +85,10 @@
     },
     "2017 - Split 1 Playoffs": {
         "INTZ": 0.25,
-        "Vivo Keyd (Keyd Stars)": 0.42,
+        "Vivo Keyd (Keyd Stars)": 0.43,
         "paiN Gaming": 0.25,
         // Mudar arredondamento
-        "RED Canids": 0.85
+        "RED Canids": 0.86
     },
     "2017 - Split 2": {
         "CNB e-Sports Club": 0.21,
@@ -104,7 +104,7 @@
         "INTZ": 0.25,
         "paiN Gaming": 0.5,
         "RED Canids": 0.4,
-        "Team oNe eSports": 0.66
+        "Team oNe eSports": 0.67
     },
     "2018 - Split 1": {
         "CNB e-Sports Club": 0.5,
@@ -119,14 +119,14 @@
     "2018 - Split 1 Playoffs": {
         "KaBuM! e-Sports": 0.6,
         "RED Canids": 0.4,
-        "Vivo Keyd (Keyd Stars)": 0.61,
+        "Vivo Keyd (Keyd Stars)": 0.62,
         "CNB e-Sports Club": 0.38,
         "ProGaming Esports": 0.4
     },
     "2018 - Split 2": {
         "CNB e-Sports Club": 0.56,
         "Flamengo eSports": 0.63,
-        "IDM Gaming": 0.47,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": 0.47,
         "INTZ": 0.42,
         "KaBuM! e-Sports": 0.71,
         "ProGaming Esports": 0.39,
@@ -135,23 +135,23 @@
     },
     "2018 - Split 2 Playoffs": {
         "KaBuM! e-Sports": 0.6,
-        "Flamengo eSports": 0.62,
-        "CNB e-Sports Club": 0.37,
-        "IDM Gaming": 0,
-        "Vivo Keyd (Keyd Stars)": 0.62
+        "Flamengo eSports": 0.63,
+        "CNB e-Sports Club": 0.38,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": 0,
+        "Vivo Keyd (Keyd Stars)": 0.63
     },
     "2019 - Split 1": {
         "Flamengo eSports": 0.95,
         "INTZ": 0.62,
         "Redemption POA (T Show)": 0.57,
         "CNB e-Sports Club": 0.48,
-        "FURIA Esports (Uppercut esports)": 0.48,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": 0.48,
         "KaBuM! e-Sports": 0.43,
         "Vivo Keyd (Keyd Stars)": 0.38,
         "ProGaming Esports": 0.10
     },
     "2019 - Split 1 Playoffs": {
-        "Flamengo eSports": 0.62,
+        "Flamengo eSports": 0.63,
         "INTZ": 0.6,
         "Redemption POA (T Show)": 0.4,
         "CNB e-Sports Club": 0
@@ -160,7 +160,7 @@
         "Flamengo eSports": 0.76,
         "KaBuM! e-Sports": 0.76,
         "INTZ": 0.52,
-        "FURIA Esports (Uppercut esports)": 0.52,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": 0.52,
         "paiN Gaming": 0.48,
         "Redemption POA (T Show)": 0.33,
         "CNB e-Sports Club": 0.33,
@@ -168,13 +168,13 @@
     },
     "2019 - Split 2 Playoffs": {
         "KaBuM! e-Sports": 0.25,
-        "INTZ": 0.55,
+        "INTZ": 0.56,
         "Flamengo eSports": 0.75,
-        "FURIA Esports (Uppercut esports)": 0
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])": 0
     },
     "2020 - Split 1": {
         "Flamengo eSports" : 0.62,
-        "FURIA Esports (Uppercut esports)" : 0.52,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])" : 0.52,
         "INTZ" : 0.38,
         "KaBuM! e-Sports" : 0.52,
         "paiN Gaming" : 0.48,
@@ -184,13 +184,13 @@
     },
     "2020 - Split 1 Playoffs": {
         "Flamengo eSports" : 0.5,
-        "FURIA Esports (Uppercut esports)" : 0,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])" : 0,
         "KaBuM! e-Sports" : 1.0,
         "Vivo Keyd (Keyd Stars)" : 0
     },
     "2020 - Split 2": {
         "Flamengo eSports" : 0.48,
-        "FURIA Esports (Uppercut esports)" : 0.38,
+        "FURIA Esports (Uppercut esports [Ilha da Macacada Gaming])" : 0.38,
         "INTZ" : 0.57,
         "KaBuM! e-Sports" : 0.57,
         "paiN Gaming" : 0.67,
@@ -199,7 +199,7 @@
         "Vivo Keyd (Keyd Stars)" : 0.29
     },
     "2020 - Split 2 Playoffs": {
-        "INTZ" : 0.66,
+        "INTZ" : 0.67,
         "KaBuM! e-Sports" : 0.4,
         "paiN Gaming" : 0.44,
         "Prodigy Esports" : 0.4
