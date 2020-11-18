@@ -1,4 +1,40 @@
 {
+    "2015 - Split 1": {
+        "CNB e-Sports Club" : ["Aoshi", "Nappon", "Electro", "Kalec", "Wos"],
+        "Dexterity Team" : ["Soulsilver", "7ico", "Piolho", "prZo", "Rellik", "Anjinho"],
+        "INTZ" : ["Yang", "Revolta", "tockers", "micaO", "Jockster"],
+        "JAYOB e-Sports" : ["element", "Oxydrean", "yeTz", "Theusma", "TheFoxz", "Riyev", "huez0rd"],
+        "KaBuM! Black" : ["SkyBart", "Danagorn", "Goku", "Matsukaze", "Espeon"],
+        "KaBuM! e-Sports (KaBuM! Orange)" : ["Lep", "dans", "BruNo", "Tinowns", "Digolera", "Eryon"],
+        "Vivo Keyd (Keyd Stars)" : ["Mylon", "DayDream", "takeshi", "Emperor", "Loop"],
+        "paiN Gaming" : ["Leko", "Sirt", "Kami", "brTT", "Dioud"]
+    },
+    "2015 - Split 1 Playoffs": {
+        "CNB e-Sports Club" : ["Aoshi", "Nappon", "Electro", "Kalec", "Wos"],
+        "Dexterity Team" : ["Soulsilver", "Piolho", "prZo", "Rellik", "Anjinho"],
+        "INTZ" : ["Yang", "Revolta", "tockers", "micaO", "Jockster"],
+        "KaBuM! Black" : ["SkyBart", "Danagorn", "Goku", "Matsukaze", "Espeon"],
+        "Vivo Keyd (Keyd Stars)" : ["Mylon", "DayDream", "takeshi", "Emperor", "Loop", "Jukaah"],
+        "paiN Gaming" : ["Leko", "Sirt", "Kami", "brTT", "Dioud"]
+    },
+    "2015 - Split 2": {
+        "CNB e-Sports Club" : ["Aoshi", "Nappon", "YoDa", "Skyer", "pbO", "Wos"],
+        "g3nerationX" : ["Zantins", "Krow", "Tay", "TheFoxz", "Professor"],
+        "INTZ" : ["Yang", "Jockster", "tockers", "micaO", "Alocs"],
+        "INTZ Red" : ["Caos", "Robo", "Leozuxo", "Brucer", "Sacy", "Eryon"],
+        "KaBuM! Black" : ["element", "Danagorn", "Vash", "Matsukaze", "Espeon"],
+        "KaBuM! e-Sports (KaBuM! Orange)" : ["Lep", "BruNo", "Tinowns", "Minerva", "dans", "Zirigui"],
+        "Vivo Keyd (Keyd Stars)" : ["Leko", "Revolta", "takeshi", "esA", "Loop"],
+        "paiN Gaming" : ["Mylon", "Sirt", "Kami", "brTT", "Dioud"]
+    },
+    "2015 - Split 2 Playoffs": {
+        "CNB e-Sports Club" : ["Aoshi", "Nappon", "YoDa", "Skyer", "Wos", "Djokovic"],
+        "g3nerationX" : ["Zantins", "Krow", "Tay", "TheFoxz", "Professor"],
+        "INTZ" : ["Yang", "Jockster", "tockers", "micaO", "Alocs", "Abaxial"],
+        "INTZ Red" : ["Caos", "Robo", "Brucer", "Sacy", "Eryon", "Neki"],
+        "Vivo Keyd (Keyd Stars)" : ["Leko", "Revolta", "takeshi", "esA", "Loop", "Jukaah"],
+        "paiN Gaming" : ["Mylon", "Sirt", "Kami", "brTT", "Dioud", "MiT"]
+    },
     "2016 - Split 1": {
         "CNB e-Sports Club": ["Aoshi", "Nappon", "YoDa", "pbO", "Wos", "Djookovic"],
         "g3nerationX": ["Zantins", "Snowlz", "Tay", "Skyer", "Alocs", "Transao"],

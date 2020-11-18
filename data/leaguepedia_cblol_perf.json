@@ -1,4 +1,40 @@
 {
+    "2015 - Split 1": {
+        "CNB e-Sports Club" : 0.57,
+        "Dexterity Team" : 0.21,
+        "INTZ" : 0.86,
+        "JAYOB e-Sports" : 0.14,
+        "KaBuM! Black" : 0.43,
+        "KaBuM! e-Sports (KaBuM! Orange)" : 0.29,
+        "Vivo Keyd (Keyd Stars)" : 0.86,
+        "paiN Gaming" : 0.64
+    },
+    "2015 - Split 1 Playoffs": {
+        "CNB e-Sports Club" : 0.4,
+        "Dexterity Team" : 0.2,
+        "INTZ" : 1,
+        "KaBuM! Black" : 0.4,
+        "Vivo Keyd (Keyd Stars)" : 0.5,
+        "paiN Gaming" : 0.5
+    },
+    "2015 - Split 2": {
+        "CNB e-Sports Club" : 0.43,
+        "g3nerationX" : 0.36,
+        "INTZ" : 0.86,
+        "INTZ Red" : 0.43,
+        "KaBuM! Black" : 0.21,
+        "KaBuM! e-Sports (KaBuM! Orange)" : 0.29,
+        "Vivo Keyd (Keyd Stars)" : 0.79,
+        "paiN Gaming" : 0.64
+    },
+    "2015 - Split 2 Playoffs": {
+        "CNB e-Sports Club" : ,
+        "g3nerationX" : ,
+        "INTZ" : ,
+        "INTZ Red" : ,
+        "Vivo Keyd (Keyd Stars)" : ,
+        "paiN Gaming" : 
+    },
     "2016 - Split 1": {
         "CNB e-Sports Club": 0.21,
         "g3nerationX": 0.36,
