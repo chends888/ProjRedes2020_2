@@ -107,7 +107,7 @@
     "2017 - Summer":{
         "Afreeca Freecs": ["MaRin", "Spirit", "Mowgli", "Kuro", "Kramer", "TusiN", "iloveoov", "Cho Gye-hyeon"], 
         "ESC Shane": ["Crazy", "Bless", "Tempt", "Ghost", "Totoro", "Karam", "Ares"], 
-        "Ever8 Winners": ["Helper", "Kiin", "Malrang", "cepted", "DeuL", "Ella", "Hachani", "SpawN", "Alvingo"], 
+        "Winners": ["Helper", "Kiin", "Malrang", "cepted", "DeuL", "Ella", "Hachani", "SpawN", "Alvingo"], 
         "Jin Air Green Wings": ["ikssu", "SoHwan", "UmTi", "Raise", "Kuzan", "Teddy", "SnowFlower", "H Dragon", "Comet"], 
         "KT Rolster": ["Smeb", "Score", "PawN", "Deft", "Mata", "FIFAHUN", "ZanDarC"], 
         "DRX": ["Khan", "Rascal", "Cuzz", "Bdd", "PraY", "GorillA", "Kim", "supreme"], 
@@ -170,8 +170,8 @@
     "2018 - Regional Finals":{
         "Gen.G": ["CuVee", "Ambition", "Haru", "Fly", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
         "Griffin": ["Sword", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax"], 
-        "Kingzone DragonX": ["Khan", "Rascal", "Peanut", "Cuzz", "Bdd", "PraY", "GorillA", "Hirai", "ActScene", "supreme"], 
-        "SK Telecom T1": ["Untara", "Blank", "Faker", "Bang", "Effort", "PoohManDu", "Bengi"]
+        "DRX": ["Khan", "Rascal", "Peanut", "Cuzz", "Bdd", "PraY", "GorillA", "Hirai", "ActScene", "supreme"], 
+        "T1": ["Untara", "Blank", "Faker", "Bang", "Effort", "PoohManDu", "Bengi"]
     },
     "2019 - Spring":{
         "Afreeca Freecs": ["Kiin", "Dread", "Spirit", "Ucal", "ALL IN", "Hoon", "SS", "Aiming", "Jelly", "Proud", "Senan", "NoFe", "viNylCat"], 

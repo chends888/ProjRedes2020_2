@@ -1,264 +1,264 @@
 
 {
     "2015 - Spring":{
-        "CJ Entus": , 
-        "DRX": , 
-        "Hanwha Life Esports": , 
-        "Jin Air Green Wings": , 
-        "KT Rolster": , 
-        "Kongdoo Monster": , 
-        "Gen.G": , 
-        "T1": 
+        "CJ Entus": 0.63, 
+        "DRX": 0.26, 
+        "Hanwha Life Esports": 0.81, 
+        "Jin Air Green Wings": 0.53, 
+        "KT Rolster": 0.45, 
+        "Kongdoo Monster": 0.42, 
+        "Gen.G": 0.19, 
+        "T1": 0.72
     },
     "2015 - Spring Playoffs":{
-        "CJ Entus": , 
-        "Hanwha Life Esports": , 
-        "Jin Air Green Wings": , 
-        "T1": 
+        "CJ Entus": 0.63, 
+        "Hanwha Life Esports": 0, 
+        "Jin Air Green Wings": 0, 
+        "T1": 0.75
     },
     "2015 - Summer":{
-        "CJ Entus": , 
-        "DRX": , 
-        "Jin Air Green Wings": , 
-        "Hanwha Life Esports": , 
-        "KT Rolster": , 
-        "Kongdoo Monster": , 
-        "Afreeca Freecs": , 
-        "Gen.G": ,
-        "SBENU Korea": , 
-        "T1": 
+        "CJ Entus": 0.59, 
+        "DRX": 0.29, 
+        "Jin Air Green Wings": 0.52, 
+        "Hanwha Life Esports": 0.62, 
+        "KT Rolster": 0.64, 
+        "Kongdoo Monster": 0.58, 
+        "Afreeca Freecs": 0.37, 
+        "Gen.G": 0.37,
+        "SBENU Korea": 0.19, 
+        "T1": 0.85
     },
     "2015 - Summer Playoffs":{
-        "Kongdoo Monster": , 
-        "Hanwha Life Esports": , 
-        "CJ Entus": , 
-        "KT Rolster": , 
-        "T1": 
+        "Kongdoo Monster": 0.33, 
+        "Hanwha Life Esports": 0.63, 
+        "CJ Entus": 0, 
+        "KT Rolster": 0.38, 
+        "T1": 1.0
     },
     "2015 - Regional Finals":{
-        "CJ Entus": , 
-        "Jin Air Green Wings": , 
-        "KT Rolster": , 
-        "Kongdoo Monster": 
+        "CJ Entus": 0.4, 
+        "Jin Air Green Wings": 0.58, 
+        "KT Rolster": 0.75, 
+        "Kongdoo Monster": 0 
     }, 
     "2016 - Spring":{
-        "Afreeca Freecs": , 
-        "CJ Entus": , 
-        "Jin Air Green Wings": , 
-        "Kongdoo Monster": , 
-        "KT Rolster": , 
-        "DRX": , 
-        "Hanwha Life Esports": , 
-        "Gen.G": , 
-        "SBENU Korea": , 
-        "T1": 
+        "Afreeca Freecs": 0.52, 
+        "CJ Entus": 0.41, 
+        "Jin Air Green Wings": 0.55, 
+        "Kongdoo Monster": 0.19, 
+        "KT Rolster": 0.67, 
+        "DRX": 0.49, 
+        "Hanwha Life Esports": 0.83, 
+        "Gen.G": 0.5, 
+        "SBENU Korea": 0.22, 
+        "T1": 0.63
     },
     "2016 - Spring Playoffs":{
-        "Afreeca Freecs": ,
-        "Jin Air Green Wings": , 
-        "KT Rolster": , 
-        "Hanwha Life Esports": , 
-        "T1": 
+        "Afreeca Freecs": 0,
+        "Jin Air Green Wings": 0.5, 
+        "KT Rolster": 0, 
+        "Hanwha Life Esports": 0.25, 
+        "T1": 0.81
     },
     "2016 - Summer":{
-        "Afreeca Freecs": , 
-        "CJ Entus": , 
-        "ESC Shane": , 
-        "Jin Air Green Wings": , 
-        "KT Rolster": , 
-        "DRX": , 
-        "MVP": , 
-        "Hanwha Life Esports": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0.47, 
+        "CJ Entus": 0.27, 
+        "ESC Shane": 0.36,
+        "Jin Air Green Wings": 0.42, 
+        "KT Rolster": 0.66,
+        "DRX": 0.39,
+        "MVP": 0.44, 
+        "Hanwha Life Esports": 0.75, 
+        "Gen.G": 0.6, 
+        "T1": 0.68
     },
     "2016 - Summer Playoffs":{
-        "Afreeca Freecs": , 
-        "KT Rolster": , 
-        "Hanwha Life Esports": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0, 
+        "KT Rolster": 0.61, 
+        "Hanwha Life Esports": 0.6, 
+        "Gen.G": 0.4, 
+        "T1": 0.4
     },
     "2016 - Regional Finals":{
-        "Afreeca Freecs": , 
-        "Jin Air Green Wings": , 
-        "Gen.G": ,
-        "KT Rolster": 
+        "Afreeca Freecs": 0.44, 
+        "Jin Air Green Wings": 0.4, 
+        "Gen.G": 0.67,
+        "KT Rolster": 0.4
     }, 
     "2017 - Spring":{
-        "Afreeca Freecs": , 
-        "ESC Shane": , 
-        "Jin Air Green Wings": , 
-        "Kongdoo Monster": , 
-        "KT Rolster": ,
-        "DRX": , 
-        "MVP": , 
-        "Hanwha Life Esports": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0.56, 
+        "ESC Shane": 0.36, 
+        "Jin Air Green Wings": 0.32, 
+        "Kongdoo Monster": 0.27, 
+        "KT Rolster": 0.66,
+        "DRX": 0.44, 
+        "MVP": 0.52, 
+        "Hanwha Life Esports": 0.45, 
+        "Gen.G": 0.71, 
+        "T1": 0.76
     },
     "2017 - Spring Playoffs":{
-        "Afreeca Freecs": , 
-        "KT Rolster": , 
-        "MVP": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0, 
+        "KT Rolster": 0.67, 
+        "MVP": 0.4, 
+        "Gen.G": 0, 
+        "T1": 1.0
     },
     "2017 - Summer":{
-        "Afreeca Freecs": , 
-        "ESC Shane": , 
-        "Ever8 Winners": , 
-        "Jin Air Green Wings": , 
-        "KT Rolster": , 
-        "DRX": , 
-        "MVP": , 
-        "Hanwha Life Esports": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0.56, 
+        "ESC Shane": 0.29, 
+        "Winners": 0.27, 
+        "Jin Air Green Wings": 0.5, 
+        "KT Rolster": 0.66, 
+        "DRX": 0.70, 
+        "MVP": 0.31, 
+        "Hanwha Life Esports": 0.39, 
+        "Gen.G": 0.66, 
+        "T1": 0.63
     },
     "2017 - Summer Playoffs":{
-        "Afreeca Freecs": , 
-        "KT Rolster": , 
-        "DRX": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0, 
+        "KT Rolster": 0.4, 
+        "DRX": 0.75, 
+        "Gen.G": 0, 
+        "T1": 0.64
     },
     "2017 - Regional Finals":{
-        "Afreeca Freecs": , 
-        "KT Rolster": , 
-        "MVP": , 
-        "Gen.G": 
+        "Afreeca Freecs": 0.5, 
+        "KT Rolster": 0, 
+        "MVP": 0.4, 
+        "Gen.G": 0.75
     },
     "2018 - Spring":{
-        "Afreeca Freecs": , 
-        "ESC Shane": , 
-        "Jin Air Green Wings": , 
-        "DRX": , 
-        "Kongdoo Monster": , 
-        "Gen.G": , 
-        "KT Rolster": , 
-        "MVP": , 
-        "Hanwha Life Esports": , 
-        "T1": 
+        "Afreeca Freecs": 0.68, 
+        "ESC Shane": 0.39, 
+        "Jin Air Green Wings": 0.43, 
+        "DRX": 0.83, 
+        "Kongdoo Monster": 0.22, 
+        "Gen.G": 0.5, 
+        "KT Rolster": 0.65, 
+        "MVP": 0.33, 
+        "Hanwha Life Esports": 0.49, 
+        "T1": 0.50
     },
     "2018 - Spring Playoffs":{
-        "Afreeca Freecs": , 
-        "DRX": , 
-        "Gen.G": , 
-        "KT Rolster": , 
-        "T1": 
+        "Afreeca Freecs": 0.5, 
+        "DRX": 0.75, 
+        "Gen.G": 0.33, 
+        "KT Rolster": 0.5, 
+        "T1": 0.43
     },
     "2018 - Summer":{
-        "Afreeca Freecs": , 
-        "ESC Shane": , 
-        "Gen.G": , 
-        "Griffin": , 
-        "Hanwha Life Esports": , 
-        "Jin Air Green Wings": , 
-        "DRX": , 
-        "KT Rolster": , 
-        "MVP": , 
-        "T1": 
+        "Afreeca Freecs": 0.57, 
+        "ESC Shane": 0.21, 
+        "Gen.G": 0.64, 
+        "Griffin": 0.68, 
+        "Hanwha Life Esports": 0.54, 
+        "Jin Air Green Wings": 0.31, 
+        "DRX": 0.65, 
+        "KT Rolster": 0.67, 
+        "MVP": 0.27, 
+        "T1": 0.45
     },
     "2018 - Summer Playoffs":{
-        "Afreeca Freecs": , 
-        "Gen.G": , 
-        "Griffin": , 
-        "DRX": , 
-        "KT Rolster": 
+        "Afreeca Freecs": 0.64, 
+        "Gen.G": 0, 
+        "Griffin": 0.5, 
+        "DRX": 0.25, 
+        "KT Rolster": 0.6
     },
     "2018 - Regional Finals":{
-        "Gen.G": , 
-        "Griffin": , 
-        "Kingzone DragonX": , 
-        "SK Telecom T1": 
+        "Gen.G": 0.69, 
+        "Griffin": 0.4, 
+        "DRX": 0, 
+        "T1": 0.4
     },
     "2019 - Spring":{
-        "Afreeca Freecs": , 
-        "DAMWON Gaming": , 
-        "Gen.G": , 
-        "Griffin": , 
-        "Hanwha Life Esports": , 
-        "Jin Air Green Wings": , 
-        "DRX": , 
-        "KT Rolster": , 
-        "SANDBOX Gaming": , 
-        "T1": 
+        "Afreeca Freecs": 0.33, 
+        "DAMWON Gaming": 0.60, 
+        "Gen.G": 0.36, 
+        "Griffin": 0.79, 
+        "Hanwha Life Esports": 0.49, 
+        "Jin Air Green Wings": 0.08, 
+        "DRX": 0.69, 
+        "KT Rolster": 0.31, 
+        "SANDBOX Gaming": 0.64, 
+        "T1": 0.70
     },
     "2019 - Spring Playoffs":{
-        "DAMWON Gaming": , 
-        "Griffin": , 
-        "DRX": , 
-        "SANDBOX Gaming": , 
-        "T1": 
+        "DAMWON Gaming": 0.33, 
+        "Griffin": 0, 
+        "DRX": 0.5, 
+        "SANDBOX Gaming": 0.33, 
+        "T1": 1.0
     },
     "2019 - Summer":{
-        "Afreeca Freecs": , 
-        "DAMWON Gaming": , 
-        "Gen.G": , 
-        "Griffin": , 
-        "Hanwha Life Esports": , 
-        "Jin Air Green Wings": , 
-        "DRX": , 
-        "KT Rolster": , 
-        "SANDBOX Gaming": , 
-        "T1": 
+        "Afreeca Freecs": 0.57, 
+        "DAMWON Gaming": 0.64,
+        "Gen.G": 0.55,
+        "Griffin": 0.69,
+        "Hanwha Life Esports": 0.36, 
+        "Jin Air Green Wings": 0.10, 
+        "DRX": 0.50, 
+        "KT Rolster": 0.36, 
+        "SANDBOX Gaming": 0.60, 
+        "T1": 0.60
     },
     "2019 - Summer Playoffs":{
-        "Afreeca Freecs": , 
-        "DAMWON Gaming": , 
-        "Griffin": , 
-        "SANDBOX Gaming": , 
-        "T1": 
+        "Afreeca Freecs": 0.33,
+        "DAMWON Gaming": 0,
+        "Griffin": 0.25,
+        "SANDBOX Gaming": 0,
+        "T1": 0.85
     },
     "2019 - Regional Finals":{
-        "Afreeca Freecs": , 
-        "DRX": , 
-        "SANDBOX Gaming": , 
-        "DAMWON Gaming": 
+        "Afreeca Freecs": 0.33,
+        "DRX": 0.64,
+        "SANDBOX Gaming": 0.33,
+        "DAMWON Gaming": 0.6
     }, 
     "2020 - Spring":{
-        "Afreeca Freecs": , 
-        "SeolHaeOne Prince": , 
-        "DAMWON Gaming": , 
-        "DRX": , 
-        "Gen.G": , 
-        "Griffin": , 
-        "Hanwha Life Esports": , 
-        "KT Rolster": , 
-        "SANDBOX Gaming": , 
-        "T1": 
+        "Afreeca Freecs": 0.41, 
+        "SeolHaeOne Prince": 0.40, 
+        "DAMWON Gaming": 0.51, 
+        "DRX": 0.67, 
+        "Gen.G": 0.70, 
+        "Griffin": 0.36, 
+        "Hanwha Life Esports": 0.38, 
+        "KT Rolster": 0.52, 
+        "SANDBOX Gaming": 0.36, 
+        "T1": 0.68
     },
     "2020 - Spring Playoffs":{
-        "DAMWON Gaming": , 
-        "DRX": , 
-        "Gen.G": , 
-        "KT Rolster": , 
-        "T1": 
+        "DAMWON Gaming": 0.5, 
+        "DRX": 0.44, 
+        "Gen.G": 0, 
+        "KT Rolster": 0.33, 
+        "T1": 0.86
     },
     "2020 - Summer":{
-        "Afreeca Freecs": , 
-        "DAMWON Gaming": , 
-        "DRX": , 
-        "Gen.G": , 
-        "Hanwha Life Esports": , 
-        "KT Rolster": , 
-        "SANDBOX Gaming": , 
-        "SeolHaeOne Prince": , 
-        "T1": , 
-        "Team Dynamics": 
+        "Afreeca Freecs": 0.51, 
+        "DAMWON Gaming": 0.87, 
+        "DRX": 0.71, 
+        "Gen.G": 0.72, 
+        "Hanwha Life Esports": 0.19, 
+        "KT Rolster": 0.42,
+        "SANDBOX Gaming": 0.40,
+        "SeolHaeOne Prince": 0.15,
+        "T1": 0.67,
+        "Team Dynamics": 0.36
     },
     "2020 - Summer Playoffs":{
-        "Afreeca Freecs": , 
-        "DAMWON Gaming": , 
-        "DRX": , 
-        "Gen.G": , 
-        "T1": 
+        "Afreeca Freecs": 0.33,
+        "DAMWON Gaming": 1.0,
+        "DRX": 0.38,
+        "Gen.G": 0.63,
+        "T1": 0.33
     },
     "2020 - Regional Finals":{
-        "Afreeca Freecs": , 
-        "Gen.G": , 
-        "KT Rolster": , 
-        "T1": 
+        "Afreeca Freecs": 0.57, 
+        "Gen.G": 1.0, 
+        "KT Rolster": 0, 
+        "T1": 0.43
     }
 }
