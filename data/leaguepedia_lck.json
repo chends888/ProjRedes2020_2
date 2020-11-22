@@ -1,0 +1,264 @@
+
+{
+    "2015 - Spring":{
+        "CJ Entus": ["Shy", "Ambition", "Coco", "Space", "MadLife", "OnAir", "Kezman"], 
+        "DRX": ["Lilac", "Wisdom", "Ares", "Frozen", "Sonstar", "TusiN", "Hirai", "Micro"], 
+        "Hanwha Life Esports": ["Smeb", "Hojin", "Kuro", "PraY", "GorillA", "NoFe"], 
+        "Jin Air Green Wings": ["TrAce", "Chaser", "Winged", "GBM", "Pilot", "Cpt Jack", "Chei", "Sweet", "H Dragon", "Sweet"], 
+        "KT Rolster": ["Ssumday", "Score", "Nagne", "Arrow", "Hachani", "Fixer", "FIFAHUN", "ZanDarC"], 
+        "Kongdoo Monster": ["Duke", "Watch", "Peanut", "Ggoong", "Tank", "Ohq", "Zefa", "Cain", "Pure", "Reach", "viNylCat"], 
+        "Gen.G": ["CuVee", "Eve", "BlisS", "Ace", "Fury", "Wraith", "Edgar", "Horang2"], 
+        "T1": ["MaRin", "Bengi", "Tom", "Faker", "Easyhoon", "Bang", "Wolf", "Piccaboo", "cCarter", "kkOma"]
+    },
+    "2015 - Spring Playoffs":{
+        "CJ Entus": ["Shy", "Ambition", "Coco", "Space", "MadLife", "OnAir", "Kezman"], 
+        "Hanwha Life Esports": ["Smeb", "Hojin", "Kuro", "PraY", "GorillA", "NoFe"], 
+        "Jin Air Green Wings": ["TrAce", "Chaser", "GBM", "Pilot", "Cpt Jack", "Chei", "H Dragon", "Sweet"], 
+        "T1": ["MaRin", "Tom", "Bengi", "Easyhoon", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2015 - Summer":{
+        "CJ Entus": ["Shy", "Helper", "Ambition", "Trick", "Coco", "Space", "MadLife", "Max", "OnAir", "Kezman", "Noex"], 
+        "DRX": ["Apple", "Expession", "TusiN", "Lilac", "Neo", "Frozen", "Roar", "Sonstar", "Paragon", "IgNar", "Hirai", "Micro"], 
+        "Jin Air Green Wings": ["TrAce", "Chaser", "Winged", "GBM", "Kuzan", "Pilot", "Cpt Jack", "Sweet", "Chei", "H Dragon", "Sweet"], 
+        "Hanwha Life Esports": ["Smeb", "Hojin", "Wisdom", "Kuro", "PraY", "GorillA", "NoFe", "SSONG"], 
+        "KT Rolster": ["Ssumday", "Score", "Nagne", "Edge", "Arrow", "Fixer", "Piccaboo", "FIFAHUN", "ZanDarC"], 
+        "Kongdoo Monster": ["Duke", "Watch", "Peanut", "Ggoong", "Tank", "Ohq", "Pure", "Reach", "viNylCat"], 
+        "Afreeca Freecs": ["ikssu", "cvMax", "Lira", "Mickey", "Sangyoon", "SnowFlower", "Hachani"], 
+        "Gen.G": ["CuVee", "Eve", "BlisS", "Crown", "Fury", "Luna", "Wraith", "Edgar", "Horang2"],
+        "SBENU Korea": ["Soul", "SoaR", "Catch", "SaSin", "DO IT", "Nuclear", "DAN", "Secret", "viviD", "Gerrard", "Wi Dae-yun"], 
+        "T1": ["MaRin", "Tom", "Bengi", "Easyhoon", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2015 - Summer Playoffs":{
+        "Kongdoo Monster": ["Duke", "Watch", "Ggoong", "Ohq", "Pure", "Reach", "viNylCat"], 
+        "Hanwha Life Esports": ["Smeb", "Hojin", "Kuro", "PraY", "GorillA", "NoFe", "SSONG"], 
+        "CJ Entus": ["Shy", "Ambition", "Coco", "Space", "MadLife", "Kezman", "Noex"], 
+        "KT Rolster": ["Ssumday", "Score", "Nagne", "Arrow", "Piccaboo", "FIFAHUN", "ZanDarC"], 
+        "T1": ["MaRin", "Bengi", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2015 - Regional Finals":{
+        "CJ Entus": ["Shy", "Ambition", "Coco", "Space", "MadLife", "Kezman", "Noex"], 
+        "Jin Air Green Wings": ["TrAce", "Chaser", "GBM", "Pilot", "Chei", "H Dragon", "Sweet"], 
+        "KT Rolster": ["Ssumday", "Score", "Nagne", "Arrow", "Piccaboo", "FIFAHUN", "ZanDarC"], 
+        "Kongdoo Monster": ["Duke", "Watch", "Peanut", "Ggoong", "Tank", "Ohq", "Pure", "Reach", "viNylCat"]
+    }, 
+    "2016 - Spring":{
+        "Afreeca Freecs": ["ikssu", "Lira", "Mickey", "Sangyoon", "SnowFlower", "OnAir", "Noex"], 
+        "CJ Entus": ["Untara", "Bubbling", "Sky", "Bdd", "Kramer", "MadLife", "Reach", "Cain"], 
+        "Jin Air Green Wings": ["TrAce", "SoHwan", "Winged", "Kuzan", "Pilot", "Chei", "H Dragon", "Sweet"], 
+        "Kongdoo Monster": ["Hipo", "Roach", "Crush", "Edge", "SS", "GuGer", "viNylCat", "Micro"], 
+        "KT Rolster": ["Ssumday", "Score", "Fly", "Arrow", "Hachani", "IgNar", "FIFAHUN", "ZanDarC"], 
+        "DRX": ["Expession", "Flame", "Chaser", "Crash", "Coco", "Frozen", "Cpt Jack", "Fury", "Pure", "Zzus", "Hirai", "Lustboy"], 
+        "Hanwha Life Esports": ["Smeb", "Peanut", "Kuro", "PraY", "GorillA", "NoFe", "SSONG"], 
+        "Gen.G": ["CuVee", "Ambition", "Crown", "CoreJJ", "Stitch", "Wraith", "Edgar", "Kim"], 
+        "SBENU Korea": ["SoaR", "Soul", "Flawless", "SaSin", "Nuclear", "Secret", "Shadow"], 
+        "T1": ["Duke", "Bengi", "Blank", "Faker", "Scout", "Bang", "Wolf", "cCarter", "kkOma", "PoohManDu"]
+    },
+    "2016 - Spring Playoffs":{
+        "Afreeca Freecs": ["ikssu", "Lira", "Mickey", "Sangyoon", "SnowFlower", "OnAir", "Noex"],
+        "Jin Air Green Wings": ["TrAce", "Winged", "Kuzan", "Pilot", "Chei", "H Dragon", "Sweet"], 
+        "KT Rolster": ["Ssumday", "Score", "Fly", "Arrow", "Hachani", "FIFAHUN", "ZanDarC"], 
+        "Hanwha Life Esports": ["Smeb", "Peanut", "Kuro", "PraY", "GorillA", "NoFe", "SSONG"], 
+        "T1": ["Duke", "Blank", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2016 - Summer":{
+        "Afreeca Freecs": ["ikssu", "Lindarang", "Lira", "SeongHwan", "Mickey", "Sangyoon", "SnowFlower", "OnAir", "Noex"], 
+        "CJ Entus": ["Untara", "Shy", "Haru", "Bubbling", "Bdd", "Sky", "Kramer", "Ghost", "MadLife", "Reach", "Cain"], 
+        "ESC Shane": ["Crazy", "Part", "Bless", "Tempt", "LokeN", "Key", "Totoro", "Karam", "/Cho_Gye-hyeon?action=edit&redlink=1"], 
+        "Jin Air Green Wings": ["TrAce", "SoHwan", "Winged", "Blanc", "Kuzan", "Pilot", "Chei", "Sweet", "H Dragon", "Sweet"], 
+        "KT Rolster": ["Ssumday", "Score", "Fly", "Arrow", "Hachani", "FIFAHUN", "ZanDarC"], 
+        "DRX": ["Expession", "Chaser", "Crash", "Coco", "Frozen", "Fury", "Emperor", "Pure", "Hirai", "Lustboy"], 
+        "MVP": ["ADD", "Beyond", "Ian", "MaHa", "Max", "Hell"], 
+        "Hanwha Life Esports": ["Smeb", "Peanut", "Kuro", "Zet", "PraY", "GorillA", "NoFe", "SSONG"], 
+        "Gen.G": ["CuVee", "Helper", "Ambition", "Crown", "Ruler", "Wraith", "CoreJJ", "Edgar", "Kim"], 
+        "T1": ["Duke", "Bengi", "Blank", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2016 - Summer Playoffs":{
+        "Afreeca Freecs": ["ikssu", "Lira", "Mickey", "Sangyoon", "SnowFlower", "OnAir", "Noex"], 
+        "KT Rolster": ["Ssumday", "Score", "Fly", "Arrow", "Hachani", "FIFAHUN", "ZanDarC"], 
+        "Hanwha Life Esports": ["Smeb", "Peanut", "Kuro", "PraY", "GorillA", "NoFe", "SSONG"], 
+        "Gen.G": ["CuVee", "Helper", "Ambition", "Crown", "Ruler", "Stitch", "Wraith", "Edgar", "Kim"], 
+        "T1": ["Duke", "Blank", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2016 - Regional Finals":{
+        "Afreeca Freecs": ["Lindarang", "ikssu", "SeongHwan", "Lira", "Mickey", "Sangyoon", "SnowFlower", "OnAir", "Noex"], 
+        "Jin Air Green Wings": ["TrAce", "Winged", "Kuzan", "Pilot", "Chei", "H Dragon", "Sweet"], 
+        "Gen.G": ["CuVee", "Ambition", "Crown", "Ruler", "Wraith", "CoreJJ", "Edgar", "Kim"],
+        "KT Rolster": ["Ssumday", "Score", "Fly", "Arrow", "Hachani", "FIFAHUN", "ZanDarC"]
+    }, 
+    "2017 - Spring":{
+        "Afreeca Freecs": ["MaRin", "Spirit", "Mowgli", "Kuro", "Kramer", "TusiN", "iloveoov", "Cho Gye-hyeon"], 
+        "ESC Shane": ["Crazy", "Part", "Bless", "Tempt", "Ghost", "Totoro", "Karam", "Ares"], 
+        "Jin Air Green Wings": ["ikssu", "SoHwan", "UmTi", "Raise", "Kuzan", "Teddy", "SnowFlower", "H Dragon", "Sweet"], 
+        "Kongdoo Monster": ["Roach", "Punch", "Edge", "SS", "GuGer", "Secret", "WhyManMC"], 
+        "KT Rolster": ["Smeb", "Score", "PawN", "Deft", "Mata", "FIFAHUN", "ZanDarC"],
+        "DRX": ["Expession", "Crash", "Fly", "PraY", "GorillA", "Hirai", "SSONG", "Kim"], 
+        "MVP": ["ADD", "Beyond", "Ian", "MaHa", "Max", "Hell", "Saroo"], 
+        "Hanwha Life Esports": ["Lindarang", "Shy", "SeongHwan", "Mightybear", "Mickey", "Sangyoon", "Key", "OnAir", "Xero"], 
+        "Gen.G": ["CuVee", "Ambition", "Haru", "Crown", "Ruler", "Stitch", "CoreJJ", "Wraith", "Edgar", "TrAce"], 
+        "T1": ["Huni", "Profit", "Peanut", "Blank", "Faker", "Bang", "Wolf", "cCarter", "kkOma", "RapidStar"]
+    },
+    "2017 - Spring Playoffs":{
+        "Afreeca Freecs": ["MaRin", "Spirit", "Kuro", "Kramer", "TusiN", "iloveoov", "Cho Gye-hyeon"], 
+        "KT Rolster": ["Smeb", "Score", "PawN", "Deft", "Mata", "FIFAHUN", "ZanDarC"], 
+        "MVP": ["ADD", "Beyond", "Ian", "MaHa", "Max", "Hell", "Saroo"], 
+        "Gen.G": ["CuVee", "Ambition", "Haru", "Crown", "Ruler", "Stitch", "CoreJJ", "Wraith", "Edgar", "TrAce"], 
+        "T1": ["Huni", "Peanut", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2017 - Summer":{
+        "Afreeca Freecs": ["MaRin", "Spirit", "Mowgli", "Kuro", "Kramer", "TusiN", "iloveoov", "Cho Gye-hyeon"], 
+        "ESC Shane": ["Crazy", "Bless", "Tempt", "Ghost", "Totoro", "Karam", "Ares"], 
+        "Ever8 Winners": ["Helper", "Kiin", "Malrang", "cepted", "DeuL", "Ella", "Hachani", "SpawN", "Alvingo"], 
+        "Jin Air Green Wings": ["ikssu", "SoHwan", "UmTi", "Raise", "Kuzan", "Teddy", "SnowFlower", "H Dragon", "Comet"], 
+        "KT Rolster": ["Smeb", "Score", "PawN", "Deft", "Mata", "FIFAHUN", "ZanDarC"], 
+        "DRX": ["Khan", "Rascal", "Cuzz", "Bdd", "PraY", "GorillA", "Kim", "supreme"], 
+        "MVP": ["ADD", "Beyond", "Ian", "MaHa", "Max", "Hell", "Saroo"], 
+        "Hanwha Life Esports": ["Lindarang", "Shy", "SeongHwan", "Mightybear", "Mickey", "Lava", "Crow", "Sangyoon", "Key", "OnAir", "Xero"], 
+        "Gen.G": ["CuVee", "Ambition", "Haru", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
+        "T1": ["Huni", "Untara", "Peanut", "Blank", "Faker", "Bang", "Wolf", "cCarter", "kkOma", "RapidStar"]
+    },
+    "2017 - Summer Playoffs":{
+        "Afreeca Freecs": ["MaRin", "Spirit", "Kuro", "Kramer", "TusiN", "iloveoov", "Cho Gye-hyeon"], 
+        "KT Rolster": ["Smeb", "Score", "PawN", "Deft", "Mata", "FIFAHUN", "ZanDarC"], 
+        "DRX": ["Khan", "Cuzz", "Bdd", "PraY", "GorillA", "Kim", "supreme"], 
+        "Gen.G": ["CuVee", "Haru", "Ambition", "Crown", "Ruler", "Stitch", "CoreJJ", "Wraith", "Edgar", "TrAce"], 
+        "T1": ["Untara", "Huni", "Peanut", "Blank", "Faker", "Bang", "Wolf", "cCarter", "kkOma"]
+    },
+    "2017 - Regional Finals":{
+        "Afreeca Freecs": ["MaRin", "Spirit", "Mowgli", "Kuro", "Kramer", "TusiN", "iloveoov", "Cho Gye-hyeon"], 
+        "KT Rolster": ["Smeb", "Score", "PawN", "Deft", "Mata", "FIFAHUN", "ZanDarC"], 
+        "MVP": ["ADD", "Beyond", "Ian", "MaHa", "Max", "Hell", "Saroo"], 
+        "Gen.G": ["CuVee", "Haru", "Ambition", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"]
+    },
+    "2018 - Spring":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Mowgli", "Kuro", "Kramer", "Aiming", "TusiN", "Comet", "Zefa"], 
+        "ESC Shane": ["Crazy", "Trick", "bonO", "Tempt", "Ghost", "IgNar", "Xero", "Ares"], 
+        "Jin Air Green Wings": ["SoHwan", "UmTi", "Yaharong", "Justice", "Teddy", "Wraith", "H Dragon", "fly"], 
+        "DRX": ["Rascal", "Khan", "Peanut", "Cuzz", "Bdd", "PraY", "GorillA", "Hirai", "ActScene"], 
+        "Kongdoo Monster": ["Roach", "Raise", "Wiz", "Edge", "SS", "Secret", "WhyManMC", "Sweet", "Rigby"], 
+        "Gen.G": ["CuVee", "Ambition", "Haru", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
+        "KT Rolster": ["Smeb", "Score", "Rush", "PawN", "Ucal", "Deft", "Mata", "ZanDarC", "Noex"], 
+        "MVP": ["ADD", "Beyond", "Ian", "MaHa", "Pilot", "Max", "Hell", "Saroo"], 
+        "Hanwha Life Esports": ["Lindarang", "Mightybear", "SeongHwan", "Kuzan", "Lava", "Sangyoon", "Key", "OnAir", "Emperor"], 
+        "T1": ["Untara", "Thal", "Blank", "Wolf", "Blossom", "Faker", "Bang", "Effort", "kkOma", "PoohManDu"]
+    },
+    "2018 - Spring Playoffs":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Mowgli", "Kuro", "Kramer", "TusiN", "iloveoov", "Comet"], 
+        "DRX": ["Khan", "Peanut", "Bdd", "PraY", "GorillA", "Hirai", "ActScene"], 
+        "Gen.G": ["CuVee", "Ambition", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
+        "KT Rolster": ["Smeb", "Rush", "Score", "Ucal", "Deft", "Mata", "ZanDarC", "Noex"], 
+        "T1": ["Thal", "Blank", "Faker", "Bang", "Effort", "Wolf", "kkOma", "PoohManDu"]
+    },
+    "2018 - Summer":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Mowgli", "Kuro", "Aiming", "Kramer", "TusiN", "Comet", "Zefa"], 
+        "ESC Shane": ["Crazy", "bonO", "Trick", "Tempt", "Prince", "Ghost", "IgNar", "Xero", "Ares"], 
+        "Gen.G": ["CuVee", "Alphamong", "Ambition", "Haru", "Fly", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
+        "Griffin": ["Sword", "Tarzan", "Rather", "Chovy", "Viper", "Lehends", "cvMax"], 
+        "Hanwha Life Esports": ["Lindarang", "Hoon", "SeongHwan", "Mightybear", "Lava", "Kuzan", "Sangyoon", "Clever", "Key", "Asper", "OnAir", "Emperor"], 
+        "Jin Air Green Wings": ["SoHwan", "UmTi", "KaKAO", "Yaharong", "Justice", "Teddy", "Nova", "H Dragon", "fly"], 
+        "DRX": ["Khan", "Rascal", "Cuzz", "Peanut", "Bdd", "PraY", "GorillA", "Hirai", "ActScene"], 
+        "KT Rolster": ["Smeb", "Kingen", "Rush", "Score", "Ucal", "PawN", "Deft", "Mata", "ZanDarC", "Noex"], 
+        "MVP": ["ADD", "Beyond", "Ian", "Pilot", "MaHa", "Max", "Motive", "Hell", "Saroo"], 
+        "T1": ["Thal", "Blank", "Blossom", "Faker", "Pirean", "Bang", "Leo", "Wolf", "Effort", "kkOma", "PoohManDu", "Bengi"]
+    },
+    "2018 - Summer Playoffs":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Kuro", "Kramer", "TusiN", "Comet", "Zefa"], 
+        "Gen.G": ["CuVee", "Ambition", "Fly", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
+        "Griffin": ["Sword", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax"], 
+        "DRX": ["Khan", "Peanut", "Bdd", "PraY", "GorillA", "Hirai", "ActScene", "supreme"], 
+        "KT Rolster": ["Smeb", "Score", "Ucal", "Deft", "Mata", "ZanDarC", "Noex"]
+    },
+    "2018 - Regional Finals":{
+        "Gen.G": ["CuVee", "Ambition", "Haru", "Fly", "Crown", "Ruler", "CoreJJ", "Edgar", "TrAce"], 
+        "Griffin": ["Sword", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax"], 
+        "Kingzone DragonX": ["Khan", "Rascal", "Peanut", "Cuzz", "Bdd", "PraY", "GorillA", "Hirai", "ActScene", "supreme"], 
+        "SK Telecom T1": ["Untara", "Blank", "Faker", "Bang", "Effort", "PoohManDu", "Bengi"]
+    },
+    "2019 - Spring":{
+        "Afreeca Freecs": ["Kiin", "Dread", "Spirit", "Ucal", "ALL IN", "Hoon", "SS", "Aiming", "Jelly", "Proud", "Senan", "NoFe", "viNylCat"], 
+        "DAMWON Gaming": ["Nuguri", "Flame", "Canyon", "Punch", "ShowMaker", "Nuclear", "Prince", "Hoit", "BeryL", "Micro", "Kim"], 
+        "Gen.G": ["CuVee", "Roach", "Peanut", "Fly", "Ruler", "Life", "Edgar", "TrAce"], 
+        "Griffin": ["Sword", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax", "Chaos"], 
+        "Hanwha Life Esports": ["Thal", "SoHwan", "bonO", "MooJin", "Lava", "Tempt", "Sangyoon", "Key", "LinLan", "OnAir", "Woong"], 
+        "Jin Air Green Wings": ["Lindarang", "TaNa", "Malrang", "Seize", "CheonGo", "Yaharong", "Route", "Stitch", "Kellin", "Nova", "H Dragon", "Alvingo", "Moment"], 
+        "DRX": ["Rascal", "Cuzz", "PawN", "Naehyun", "Deft", "TusiN", "Acorn", "Hirai"], 
+        "KT Rolster": ["Smeb", "Kingen", "Score", "UmTi", "Bdd", "Zenit", "Gango", "SnowFlower", "Noex", "ZanDarC", "Sonstar"], 
+        "SANDBOX Gaming": ["Summit", "Wizer", "OnFleek", "Crush", "Dove", "Ghost", "Joker", "Sally", "Laden", "Dragon"], 
+        "T1": ["Khan", "Clid", "Faker", "Teddy", "Mata", "Zefa", "fly"]
+    },
+    "2019 - Spring Playoffs":{
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Nuclear", "BeryL", "Hoit", "Micro", "Kim"], 
+        "Griffin": ["Sword", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax", "Chaos"], 
+        "DRX": ["Rascal", "Cuzz", "PawN", "Deft", "TusiN", "Hirai", "Acorn"], 
+        "SANDBOX Gaming": ["Summit", "OnFleek", "Dove", "Ghost", "Joker", "Laden", "Dragon"], 
+        "T1": ["Khan", "Clid", "Faker", "Teddy", "Mata", "Zefa", "fly"]
+    },
+    "2019 - Summer":{
+        "Afreeca Freecs": ["Kiin", "Dread", "Ucal", "Aiming", "Senan", "NoFe", "viNylCat"], 
+        "DAMWON Gaming": ["Nuguri", "Flame", "Canyon", "Punch", "ShowMaker", "Nuclear", "BeryL", "Hoit", "Micro", "Kim"], 
+        "Gen.G": ["CuVee", "Roach", "Peanut", "SeongHwan", "Kuzan", "Fly", "Rich", "Ruler", "Life", "Edgar", "TrAce"], 
+        "Griffin": ["Sword", "Doran", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax", "Chaos"], 
+        "Hanwha Life Esports": ["Thal", "SoHwan", "MooJin", "bonO", "Lava", "Tempt", "Sangyoon", "Key", "OnAir", "LinLan"], 
+        "Jin Air Green Wings": ["Lindarang", "TaNa", "Malrang", "Seize", "Yaharong", "CheonGo", "Route", "Kellin", "Nova", "H Dragon", "Alvingo", "Moment"], 
+        "DRX": ["Rascal", "Cuzz", "Naehyun", "Deft", "TusiN", "Hirai", "Acorn"], 
+        "KT Rolster": ["Kingen", "Smeb", "UmTi", "Score", "Bdd", "PraY", "SnowFlower", "Noex", "Sonstar", "ZanDarC"], 
+        "SANDBOX Gaming": ["Summit", "OnFleek", "Dove", "Ghost", "Joker", "Comet", "Laden", "Dragon"], 
+        "T1": ["Khan", "Clid", "Haru", "Faker", "Gori", "Teddy", "Mata", "Effort", "Zefa", "fly", "kkOma"]
+    },
+    "2019 - Summer Playoffs":{
+        "Afreeca Freecs": ["Kiin", "Dread", "Ucal", "Aiming", "Senan", "NoFe", "viNylCat"], 
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Nuclear", "BeryL", "Micro", "Kim"], 
+        "Griffin": ["Doran", "Tarzan", "Chovy", "Viper", "Lehends", "cvMax", "Chaos"], 
+        "SANDBOX Gaming": ["Summit", "OnFleek", "Dove", "Ghost", "Joker", "Laden", "Comet"], 
+        "T1": ["Khan", "Clid", "Faker", "Teddy", "Effort", "Zefa", "fly"]
+    },
+    "2019 - Regional Finals":{
+        "Afreeca Freecs": ["Kiin", "Dread", "Ucal", "Aiming", "Senan", "NoFe", "viNylCat"], 
+        "DRX": ["Rascal", "Cuzz", "Naehyun", "Deft", "TusiN", "Hirai", "Acorn"], 
+        "SANDBOX Gaming": ["Summit", "OnFleek", "Dove", "Ghost", "Joker", "Laden", "Comet"], 
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Nuclear", "BeryL", "Micro", "Kim"]
+    }, 
+    "2020 - Spring":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Dread", "Fly", "ALL IN", "SS", "Mystic", "Jelly", "Ben", "viNylCat", "ActScene"], 
+        "SeolHaeOne Prince": ["ikssu", "Flawless", "Keine", "Cover", "HyBriD", "Trigger", "Secret", "Mia", "Winged", "CooN", "Sickness"], 
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Nuclear", "Ghost", "Hoit", "BeryL", "Zefa", "Travel", "Daeny"], 
+        "DRX": ["Chovy", "Doran", "Pyosik", "Quad", "Deft", "Keria", "cvMax"], 
+        "Gen.G": ["Rascal", "Clid", "Bdd", "Ruler", "Kellin", "Life", "Edgar", "TrAce"], 
+        "Griffin": ["Sword", "Hoya", "Untara", "Tarzan", "Ucal", "Naehyun", "Viper", "Kabbie", "H Dragon", "GBM"], 
+        "Hanwha Life Esports": ["CuVee", "Haru", "Tempt", "Vsta", "Lava", "Zenit", "Lehends", "Kezman", "NoFe"], 
+        "KT Rolster": ["SoHwan", "Ray", "bonO", "Malrang", "Kuro", "Aiming", "TusiN", "Hirai", "Acorn"], 
+        "SANDBOX Gaming": ["Summit", "Lonely", "OnFleek", "Punch", "Dove", "FATE", "Leo", "Route", "GorillA", "Joker", "Laden", "Morning", "Coco"], 
+        "T1": ["Roach", "Canna", "Cuzz", "Ellim", "Faker", "Teddy", "Effort", "Kim", "Comet"]
+    },
+    "2020 - Spring Playoffs":{
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Ghost", "BeryL", "Zefa", "Daeny"], 
+        "DRX": ["Doran", "Pyosik", "Chovy", "Deft", "Keria", "cvMax"], 
+        "Gen.G": ["Rascal", "Clid", "Bdd", "Ruler", "Life", "Edgar", "TrAce"], 
+        "KT Rolster": ["SoHwan", "bonO", "Kuro", "Aiming", "TusiN", "Hirai", "Acorn"], 
+        "T1": ["Canna", "Cuzz", "Faker", "Teddy", "Effort", "Kim", "Comet"]
+    },
+    "2020 - Summer":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Dread", "Fly", "Mystic", "Ben", "Jelly", "viNylCat", "Rigby"], 
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Ghost", "BeryL", "Zefa", "Daeny"], 
+        "DRX": ["Doran", "Pyosik", "Chovy", "Deft", "Keria", "cvMax", "Museong"], 
+        "Gen.G": ["Rascal", "Clid", "Bdd", "Ruler", "Life", "Kellin", "oDin", "Tom"], 
+        "Hanwha Life Esports": ["CuVee", "DuDu", "Haru", "CaD", "Yeongjae", "Lava", "Mireu", "Viper", "Lehends", "Kezman", "NoFe", "Max"], 
+        "KT Rolster": ["SoHwan", "Smeb", "bonO", "Malrang", "Ucal", "Kuro", "Aiming", "TusiN", "Hirai", "Acorn"], 
+        "SANDBOX Gaming": ["Summit", "OnFleek", "Dove", "FATE", "Route", "GorillA", "Kabbie", "Joker", "YamatoCannon"], 
+        "SeolHaeOne Prince": ["ikssu", "Flawless", "Kuma", "Mickey", "Keine", "HyBriD", "Trigger", "Secret", "Mia", "Sickness", "Winged", "CooN"], 
+        "T1": ["Canna", "Cuzz", "Ellim", "Faker", "Clozer", "Teddy", "Effort", "Kuri", "Kim", "Comet"], 
+        "Team Dynamics": ["Rich", "Beyond", "Kuzan", "deokdam", "GuGer", "sBs"]
+    },
+    "2020 - Summer Playoffs":{
+        "Afreeca Freecs": ["Kiin", "Dread", "Spirit", "Fly", "Mystic", "Ben", "viNylCat", "Rigby"], 
+        "DAMWON Gaming": ["Nuguri", "Canyon", "ShowMaker", "Ghost", "BeryL", "Zefa", "Daeny"], 
+        "DRX": ["Doran", "Pyosik", "Chovy", "Deft", "Keria", "cvMax", "Museong"], 
+        "Gen.G": ["Rascal", "Clid", "Bdd", "Ruler", "Life", "oDin", "Tom"], 
+        "T1": ["Canna", "Cuzz", "Clozer", "Faker", "Teddy", "Effort", "Kim", "Comet"]
+    },
+    "2020 - Regional Finals":{
+        "Afreeca Freecs": ["Kiin", "Spirit", "Dread", "Fly", "Mystic", "Ben", "viNylCat", "Rigby"], 
+        "Gen.G": ["Rascal", "Clid", "Bdd", "Ruler", "Life", "oDin", "Tom"], 
+        "KT Rolster": ["Smeb", "SoHwan", "bonO", "Ucal", "Kuro", "Aiming", "TusiN", "Hirai", "Acorn"], 
+        "T1": ["Canna", "Ellim", "Faker", "Gumayusi", "Effort", "Kim", "Comet"]
+    }
+}
