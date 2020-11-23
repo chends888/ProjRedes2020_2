@@ -1,14 +1,17 @@
 import requests
+import json
 import urllib.request
 import time
 from bs4 import BeautifulSoup
 
 names = {}
+names_no_player = {}
 
-url_tournment = 'https://lol.gamepedia.com/Champions/2015_Season/Summer_Playoffs'
+url_tournment = 'https://lol.gamepedia.com/LPL/2015_Season/Spring_Season'
 response_tournment = requests.get(url_tournment)
 soup_tournment = BeautifulSoup(response_tournment.text, "html.parser")
 
+tournment = soup_tournment.find(class_="firstHeading").string
 teams = soup_tournment.find(class_="tournament-rosters").findAll(class_='wikitable tournament-roster')
 
 for team in teams:
@@ -42,10 +45,21 @@ for team in teams:
         try:
             name_players.append(soup_player.find(class_="infobox-title").string)
         except:
-            name_players.append(end_link_player)
+            name_players.append(player.find('a').string)
 
     print(real_team_name)   
 
     names[real_team_name] = name_players
+    names_no_player[real_team_name] = 0
 
-print(names)
+print("=======================================================")
+print(tournment, "\n")
+for i in names:
+    string_names = '"{}": {},'.format(i, json.dumps(names[i]))
+    print(string_names)
+
+print("")
+for i in names_no_player:
+    string_names_no_player = '"{}": {},'.format(i, 0)
+    print(string_names_no_player)
+print("=======================================================")
