@@ -68,25 +68,36 @@ def build_gml(filename, teams_dict, teams_edges):
         f.write(tmp)
 
         for edge in teams_edges:
-                f.write('  edge [\n    source ' + str(edge[1]) +'\n    target ' + str(edge[0]) +'\n  ]\n')
+            # Edges are inverted due to Efficient Size metric method
+            f.write('  edge [\n    source ' + str(edge[1]) +'\n    target ' + str(edge[0]) +'\n  ]\n')
 
         f.write(']')
         print('\nDone')
 
 
 
-cblol_players = 'data/leaguepedia_cblol.json'
-cblol_perf = 'data/leaguepedia_cblol_perf.json'
+# CBLoL
+players = 'data/json/leaguepedia_cblol.json'
+perf = 'data/json/leaguepedia_cblol_perf.json'
 
-cblol_teams, cblol_edges = build_nodes_and_edges(cblol_players, cblol_perf)
+teams, edges = build_nodes_and_edges(players, perf)
 
-build_gml('data/cblol.gml', cblol_teams, cblol_edges)
+build_gml('data/gml/cblol.gml', teams, edges)
 
 
+# LCK
+players = 'data/json/leaguepedia_lck.json'
+perf = 'data/json/leaguepedia_lck_perf.json'
 
-lck_players = 'data/leaguepedia_lck.json'
-lck_perf = 'data/leaguepedia_lck_perf.json'
+teams, edges = build_nodes_and_edges(players, perf)
 
-lck_teams, lck_edges = build_nodes_and_edges(lck_players, lck_perf)
+build_gml('data/gml/lck.gml', teams, edges)
 
-build_gml('data/lck.gml', lck_teams, lck_edges)
+
+# LPL
+players = 'data/json/leaguepedia_lpl.json'
+perf = 'data/json/leaguepedia_lpl_perf.json'
+
+teams, edges = build_nodes_and_edges(players, perf)
+
+build_gml('data/gml/lpl.gml', teams, edges)
