@@ -7,40 +7,27 @@ full_season = {}
 full_season_perf = {}
 
 # Loop to access all url's
-urls_cblol = [
-            "https://lol.gamepedia.com/Riot_Season_2_Brazilian_Championship",
-            "https://lol.gamepedia.com/Riot_Season_3_Brazilian_Championship",
-            "https://lol.gamepedia.com/CBLOL/2014_Season/Regional_Finals",
-            "https://lol.gamepedia.com/CBLOL/2014_Season/Champions_Series",
-            "https://lol.gamepedia.com/CBLOL/2015_Season",
-            "https://lol.gamepedia.com/CBLOL/2016_Season",
-            "https://lol.gamepedia.com/CBLOL/2017_Season",
-            "https://lol.gamepedia.com/CBLOL/2018_Season",
-            "https://lol.gamepedia.com/CBLOL/2019_Season",
-            "https://lol.gamepedia.com/CBLOL/2020_Season"
+urls_lck = [
+            "https://lol.gamepedia.com/Champions/2012_Season",
+            "https://lol.gamepedia.com/Champions/2013_Season",
+            "https://lol.gamepedia.com/Champions/2014_Season",
             ]
 
 # Main loop
-for url in urls_cblol:
+for url in urls_lck:
     # Access to the main page for each url
     url_tournment = url
     response_tournment = requests.get(url_tournment)
     soup_tournment = BeautifulSoup(response_tournment.text, "html.parser")
 
     # Access to each season
-    try:
-        seasons = soup_tournment.find(class_="tabheader-top").findAll('a')
-        eol_season = [season.get('href') for season in seasons if ("Picks_and_Bans" not in season.get('href')) and ("Qualifiers" not in season.get('href'))] 
-    except:
-        eol_season = [url]
+    seasons = soup_tournment.find(class_="tabheader-top").findAll('a')
+    eol_season = [season.get('href') for season in seasons if ("Qualifiers" not in season.get('href')) and ("Points" not in season.get('href'))]
 
     for eol in eol_season:
         names = {}
         names_perf = {}
-        if url in eol_season:
-            url_season = url
-        else:
-            url_season = "https://lol.gamepedia.com" + eol
+        url_season = "https://lol.gamepedia.com" + eol
         response_season = requests.get(url_season)
         soup_season = BeautifulSoup(response_season.text, "html.parser")
 
