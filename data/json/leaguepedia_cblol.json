@@ -1,4 +1,22 @@
 {
+    "Riot Season 2 Brazilian Championship": {
+        "paiN Gaming": ["Tittu","Sirt","Kami","brTT","MiT"],
+        "Insight eSports": ["Lep","Danagorn","takeshi","gstv1","Piru"],
+        "Vince Te Ipsum Ignis": ["Mylon","Rafes","Snowlz","manajj","Alocs"],
+        "CNB e-Sports Club": ["element","Zirigui","frosty","Verfix","Bia Stun"],
+        "Vince Te Ipsum Nox": ["Leko","Volcan","yeTz","Loop","Gutso"],
+        "Influxo Gaming": ["Kalec","Fafnyr","Korvac","Kallen","Espeon"],
+        "Brave e-Sports": ["Fox","DRAEK","Maou","rhyuga","Bechede"],
+        "VerdicT Gaming": ["giokarah","domy","Zyzz","huez0rd","Calyel"]
+    },
+    "Brazilian Champions Series 2014": {
+        "CNB e-Sports Club": ["Leko","Revolta","takeshi","manajj","Alocs"],
+        "KaBuM! e-Sports": ["Lep","Danagorn","tinowns","dans","bit1","Espeon"],
+        "Vivo Keyd": ["Mylon","Winged","SuNo","brTT","Loop"],
+        "paiN Gaming": ["Venon","Lactea","Sirt","Kami","owN","Minerva","Olleh"],
+        "Team awp": ["element","Turtle","yeTz","Soulsilver","Digolera","Gigante"],
+        "Team United": ["w0lv","Jockster","Fire","micaO","Eryon"]
+    },
     "2015 - Split 1": {
         "CNB e-Sports Club" : ["Aoshi", "Nappon", "Electro", "Kalec", "Wos"],
         "Dexterity Team" : ["Soulsilver", "7ico", "Piolho", "prZo", "Rellik", "Anjinho"],

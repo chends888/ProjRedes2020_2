@@ -13,10 +13,6 @@ graph [
     id 2
     label "2"
   ]
-  node [
-    id 3
-    label "3"
-  ]
   edge [
     source 0
     target 1
@@ -26,8 +22,8 @@ graph [
     target 2
   ]
   edge [
-    source 0
-    target 3
+    source 1
+    target 2
   ]
   edge [
     source 2
