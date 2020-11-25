@@ -1,49 +1,74 @@
 
 {
-    "2012 - Spring":{
-
+    "2013 - Spring": {
+        "Invictus Gaming": ["PDD","illuSioN","Zz1tai","Kid","XiaoXiao"],
+        "Oh My God": ["Gogoing","pomelo","Cool","san","LoveLing"],
+        "Newbee": ["Aluka","Ziv","Jing","JoJo","NaMei","Sicca"],
+        "Royal Club": ["GodLike","Lucky","Wh1t3zZ","Uzi","Rui","Atu"],
+        "Team Livemore": ["Yao","Wayoff","Snowy","Happy","Dragon"],
+        "Team WE": ["CaoMei","Clearlove","Misaya","WeiXiao","FZZF"],
+        "Wayi Spider China": ["Easy","Crescent","YeLuo","SS","Leon","Duff","Fan"],
+        "Wings of Aurora": ["Yi","Pgggggg","Hensen","ChouD1","Mortred","Dream","HaoKai"]
     },
-    "2012 - Spring Playoffs":{
-
+    "2013 - Spring Playoffs": {
+        "Invictus Gaming": ["PDD","illuSioN","Zz1tai","Kid","XiaoXiao"],
+        "Oh My God": ["Gogoing","LoveLing","Cool","san","pomelo"],
+        "Newbee": ["Aluka","Jing","JoJo","NaMei","Sicca"],
+        "Team WE": ["CaoMei","Clearlove","Misaya","WeiXiao","FZZF"]
     },
-    "2012 - Summer":{
-
+    "2013 - Summer": {
+        "Invictus Gaming": ["PDD","illuSioN","Zz1tai","Kid","XiaoXiao"],
+        "Phoenix1": ["Yao","Mor","NoName","Wayoff","XiaoWeiXiao","Happy","Vasilii","Bao"],
+        "Oh My God": ["Gogoing","LoveLing","Cool","san","pomelo"],
+        "Newbee": ["Aluka","Jing","Ziv","JoJo","Warm","NaMei","Sicca"],
+        "Royal Club": ["GodLike","Lucky","Wh1t3zZ","Uzi","Tabe","Rui"],
+        "Team WE": ["CaoMei","Clearlove","Misaya","WeiXiao","FZZF"],
+        "Saint Gaming": ["LaoPi","BuPing","Helios","SuperCat","kane","DomhoX"],
+        "Young Glory": ["Otto","Captain","YanSir","ZhenLong","Conan"]
     },
-    "2012 - Summer Playoffs":{
-
-    },
-    "2012 - Regional Finals":{
-
-    },
-    "2013 - Spring":{
-
-    },
-    "2013 - Spring Playoffs":{
-
-    },
-    "2013 - Summer":{
-
-    },
-    "2013 - Summer Playoffs":{
-
-    },
-    "2013 - Regional Finals":{
-
+    "2013 - Summer Playoffs": {
+        "Oh My God": ["Gogoing","LoveLing","Cool","san","Da7"],
+        "Newbee": ["Aluka","Ziv","JoJo","NaMei","Sicca"],
+        "Team WE": ["CaoMei","Clearlove","Misaya","WeiXiao","FZZF"]
     },
     "2014 - Spring":{
-
+        "EDward Gaming": ["Korol","Fireloli","Clearlove","U","NaMei","FZZF"],
+        "Invictus Gaming": ["PDD","illuSioN","Zz1tai","Kid","Kitties"],
+        "Oh My God": ["Gogoing","pomelo","Xiyang","Cool","san","LoveLing"],
+        "Newbee": ["Aluka","JoJo","GAME","xiaoshi","Ycc","Summer","LovC","Da7"],
+        "Royal Club": ["Nct","Yao","Kmi","Uzi","Ley","Rui","XJJ","Bao"],
+        "Team WE": ["CaoMei","Ruo","kkk1","WeiXiao","Conan"],
+        "Saint Gaming": ["AmazingJ","BuPing","SuperCat","kane","DomhoX"],
+        "LGD Gaming (老干爹)": ["Star","tbq","LuciferYYY","Styz","Pyl"]
     },
     "2014 - Spring Playoffs":{
-
+        "Oh My God": ["Gogoing","pomelo","Xiyang","san","LoveLing"],
+        "EDward Gaming": ["Korol","Clearlove","U","NaMei","FZZF"],
+        "Team WE": ["CaoMei","Ruo","kkk1","WeiXiao","Conan"],
+        "Invictus Gaming": ["PDD","illuSioN","Zz1tai","Kid","Kitties"]
     },
     "2014 - Summer":{
-
+        "EDward Gaming": ["Korol","Clearlove","U","NaMei","FZZF"],
+        "Invictus Gaming": ["YongSoo","Do","illuSioN","Zz1tai","Kid","Kitties"],
+        "LGD Gaming (老干爹)": ["Star","ss17God","tbq","GodV","xQ","Pyl"],
+        "Oh My God": ["Gogoing","LoveLing","Cool","san","Cloud","Da7","pomelo"],
+        "Royal Club": ["Cola","inSec","Corn","Uzi","Zero","VicaL"],
+        "Team WE": ["CaoMei","ActScene","Ninja","WeiXiao","Conan"],
+        "Team WE Academy": ["Khan","xr","Zzz2","Mickey","xiye","Smlz","YuZhe"],
+        "Young Glory": ["Number1","YinFu","Otto","ZhenLong","YanSir"]
     },
     "2014 - Summer Playoffs":{
-
+        "EDward Gaming": ["Korol", "Clearlove", "U", "NaMei", "FZZF"],
+        "Oh My God": ["Gogoing", "LoveLing", "Cool", "san", "Da7"],
+        "Royal Club": ["Cola", "inSec", "Corn", "Uzi", "Zero", "VicaL"],
+        "LGD Gaming (老干爹)": ["ss17God", "tbq", "GodV", "xQ", "Pyl"]
     },
     "2014 - Regional Finals":{
-
+        "EDward Gaming": ["Korol", "Clearlove", "U", "NaMei", "FZZF"],
+        "Invictus Gaming": ["YongSoo", "illuSioN", "Zz1tai", "Kid", "Kitties"],
+        "Oh My God": ["Gogoing", "LoveLing", "Cool", "san", "Da7"],
+        "Royal Club": ["Cola", "inSec", "Corn", "Uzi", "Zero", "VicaL"],
+        "LGD Gaming (老干爹)": ["ss17God", "tbq", "GodV", "xQ", "Pyl"]
     },
     "2015 - Spring":{
         "EDward Gaming": ["Korol", "Clearlove", "Fireloli", "PawN", "U", "Deft", "Mouse", "Meiko", "Aaron"],
