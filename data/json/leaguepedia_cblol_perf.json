@@ -1,5 +1,5 @@
 {
-    "Riot Season 2 Brazilian Championship": {
+    "2012 - Brazilian Championship": {
         "paiN Gaming": 0.57,
         "Insight eSports": 0.5,
         "Vince Te Ipsum Ignis": 0.86,
@@ -9,13 +9,33 @@
         "Brave e-Sports": 0,
         "VerdicT Gaming": 0
     },
-    "Brazilian Champions Series 2014": {
+    "2013 - Brazilian Championship": {
+        "Vivo Keyd": 0,
+        "CNB e-Sports Club": 0.67,
+        "Brave e-Sports": 0.6,
+        "paiN Gaming": 0.78,
+        "PeesPlay Gaming":0.33,
+        "PlayArt Gaming": 0.33,
+        "Nex Impetus": 0.4,
+        "Action Team eSports": 0
+    },
+    "2014 - Champions Series": {
         "CNB e-Sports Club": 0.7,
         "KaBuM! e-Sports": 0.45,
         "Vivo Keyd": 0.85,
         "paiN Gaming": 0.5,
         "Team awp": 0.3,
         "Team United": 0.2
+    },
+    "2014 - Regional Finals": {
+        "Ban Karma Gaming": 0,
+        "CNB e-Sports Club": 0.63,
+        "INTZ": 0,
+        "KaBuM! e-Sports": 0.78,
+        "Vivo Keyd": 0.5,
+        "LegendsBR": 0,
+        "paiN Gaming": 0.6,
+        "Team awp": 0.33
     },
     "2015 - Split 1": {
         "CNB e-Sports Club" : 0.57,

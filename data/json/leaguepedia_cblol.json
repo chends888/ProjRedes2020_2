@@ -1,5 +1,5 @@
 {
-    "Riot Season 2 Brazilian Championship": {
+    "2012 - Brazilian Championship": {
         "paiN Gaming": ["Tittu","Sirt","Kami","brTT","MiT"],
         "Insight eSports": ["Lep","Danagorn","takeshi","gstv1","Piru"],
         "Vince Te Ipsum Ignis": ["Mylon","Rafes","Snowlz","manajj","Alocs"],
@@ -9,13 +9,33 @@
         "Brave e-Sports": ["Fox","DRAEK","Maou","rhyuga","Bechede"],
         "VerdicT Gaming": ["giokarah","domy","Zyzz","huez0rd","Calyel"]
     },
-    "Brazilian Champions Series 2014": {
+    "2013 - Brazilian Championship": {
+        "Vivo Keyd": ["Mylon","Revolta","Snowlz","Haelz","Loop"],
+        "CNB e-Sports Club": ["Leko","Danagorn","takeshi","manajj","Alocs"],
+        "Brave e-Sports": ["element","Piolho","frosty","Kalec","Korvac"],
+        "paiN Gaming": ["Venon","Sirt","Kami","brTT","Espeon"],
+        "PeesPlay Gaming": ["Fox","Jockster","Mandiocaa","micaO","placeNt"],
+        "PlayArt Gaming": ["domy","bnt","Minerva","Jow","Anjinho"],
+        "Nex Impetus": ["Lep","bit1","tinowns","Digolera","dans"],
+        "Action Team eSports": ["Vash","AHK","Kowiz","Macro","Zirigui"]
+    },
+    "2014 - Champions Series": {
         "CNB e-Sports Club": ["Leko","Revolta","takeshi","manajj","Alocs"],
         "KaBuM! e-Sports": ["Lep","Danagorn","tinowns","dans","bit1","Espeon"],
         "Vivo Keyd": ["Mylon","Winged","SuNo","brTT","Loop"],
         "paiN Gaming": ["Venon","Lactea","Sirt","Kami","owN","Minerva","Olleh"],
         "Team awp": ["element","Turtle","yeTz","Soulsilver","Digolera","Gigante"],
         "Team United": ["w0lv","Jockster","Fire","micaO","Eryon"]
+    },
+    "2014 - Regional Finals": {
+        "Ban Karma Gaming": ["bet0","Xnove","FifoyZ","RMN","Floky"],
+        "CNB e-Sports Club": ["Leko","Revolta","takeshi","manajj","Alocs"],
+        "INTZ": ["Yang","Djokovic","tockers","micaO","Jockster"],
+        "KaBuM! e-Sports": ["Lep","Danagorn","tinowns","Minerva","dans"],
+        "Vivo Keyd": ["Mylon","Winged","SuNo","brTT","Loop"],
+        "LegendsBR": ["Kaov","Tecnosh","YoDa","DreamsDY","Anjinho"],
+        "paiN Gaming": ["Lactea","Sirt","Kami","owN","Olleh"],
+        "Team awp": ["element","DRAEK","yeTz","Digolera","Gigante"]
     },
     "2015 - Split 1": {
         "CNB e-Sports Club" : ["Aoshi", "Nappon", "Electro", "Kalec", "Wos"],
