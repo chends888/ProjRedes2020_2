@@ -39,7 +39,7 @@
         "Royal Club": 0.12,
         "Team WE": 0.25,
         "Saint Gaming": 0.08,
-        "LGD Gaming (老干爹)": 0.16
+        "LGD Gaming": 0.16
     },
     "2014 - Spring Playoffs":{
         "Oh My God": 0.5,
@@ -50,7 +50,7 @@
     "2014 - Summer":{
         "EDward Gaming": 0.24,
         "Invictus Gaming": 0.15,
-        "LGD Gaming (老干爹)": 0.18,
+        "LGD Gaming": 0.18,
         "Oh My God": 0.23,
         "Royal Club": 0.23,
         "Team WE": 0.18,
@@ -61,21 +61,21 @@
         "EDward Gaming": 0.9,
         "Oh My God": 0.41,
         "Royal Club": 0.54,
-        "LGD Gaming (老干爹)": 0
+        "LGD Gaming": 0
     },
     "2014 - Regional Finals":{
         "EDward Gaming": 0.67,
         "Invictus Gaming": 0.2,
         "Oh My God": 0.67,
         "Royal Club": 0.6,
-        "LGD Gaming (老干爹)": 0.375
+        "LGD Gaming": 0.375
     },
     "2015 - Spring":{
         "EDward Gaming": 0.86,
         "Saint Gaming": 0.25,
         "Gamtee": 0.32,
         "Invictus Gaming": 0.55,
-        "LGD Gaming (老干爹)": 0.55,
+        "LGD Gaming": 0.55,
         "Team KungFu": 0.39,
         "Oh My God": 0.61,
         "LNG Esports": 0.68,
@@ -87,7 +87,7 @@
     "2015 - Spring Playoffs":{
         "EDward Gaming": 0.69,
         "Invictus Gaming": 0.55,
-        "LGD Gaming (老干爹)": 0.73,
+        "LGD Gaming": 0.73,
         "Oh My God": 0,
         "LNG Esports": 0.33,
         "Team King": 0.4,
@@ -97,7 +97,7 @@
     "2015 - Summer":{
         "EDward Gaming": 0.77,
         "Invictus Gaming": 0.55,
-        "LGD Gaming (老干爹)": 0.55,
+        "LGD Gaming": 0.55,
         "Team KungFu": 0.41,
         "Oh My God": 0.48,
         "Newbee": 0.64,
@@ -111,7 +111,7 @@
     "2015 - Summer Playoffs":{
         "EDward Gaming": 0.14,
         "Invictus Gaming": 0.57,
-        "LGD Gaming (老干爹)": 0.75,
+        "LGD Gaming": 0.75,
         "Team KungFu": 0,
         "Oh My God": 0.57,
         "Newbee": 0.5,
@@ -129,7 +129,7 @@
         "Energy Pacemaker.All": 0.36,
         "Saint Gaming": 0.09,
         "Invictus Gaming": 0.51,
-        "LGD Gaming (老干爹)": 0.5,
+        "LGD Gaming": 0.5,
         "Team KungFu": 0.25,
         "Oh My God": 0.46,
         "Newbee": 0.65,
@@ -141,7 +141,7 @@
     "2016 - Spring Playoffs":{
         "EDward Gaming": 0.63,
         "Invictus Gaming": 0,
-        "LGD Gaming (老干爹)": 0.33,
+        "LGD Gaming": 0.33,
         "Newbee": 0,
         "Royal Never Give Up": 0.67,
         "LNG Esports": 0.5,
@@ -153,7 +153,7 @@
         "Team WE Academy": 0.43,
         "Bilibili Gaming": 0.57,
         "Invictus Gaming": 0.39,
-        "LGD Gaming (老干爹)": 0.47,
+        "LGD Gaming": 0.47,
         "Newbee": 0.33,
         "Oh My God": 0.33,
         "Royal Never Give Up": 0.73,
@@ -183,7 +183,7 @@
         "Team WE Academy": 0.29,
         "Bilibili Gaming": 0.46,
         "Invictus Gaming": 0.54,
-        "LGD Gaming (老干爹)": 0.37,
+        "LGD Gaming": 0.37,
         "Newbee": 0.43,
         "Oh My God": 0.54,
         "QG Reapers": 0.58,
@@ -208,7 +208,7 @@
         "Bilibili Gaming": 0.34,
         "Invictus Gaming": 0.56,
         "JD Gaming": 0.42,
-        "LGD Gaming (老干爹)": 0.41,
+        "LGD Gaming": 0.41,
         "Newbee": 0.53,
         "Oh My God": 0.59,
         "Royal Never Give Up": 0.68,
@@ -237,7 +237,7 @@
         "FunPlus Phoenix": 0.47,
         "Invictus Gaming": 0.88,
         "JD Gaming": 0.5,
-        "LGD Gaming (老干爹)": 0.35,
+        "LGD Gaming": 0.35,
         "Oh My God": 0.31,
         "Rogue Warriors": 0.67,
         "Royal Never Give Up": 0.59,
@@ -263,7 +263,7 @@
         "FunPlus Phoenix": 0.43,
         "Invictus Gaming": 0.76,
         "JD Gaming": 0.6,
-        "LGD Gaming (老干爹)": 0.48,
+        "LGD Gaming": 0.48,
         "Oh My God": 0.33,
         "Rogue Warriors": 0.7,
         "Royal Never Give Up": 0.65,
@@ -294,7 +294,7 @@
         "FunPlus Phoenix": 0.74,
         "Invictus Gaming": 0.71,
         "JD Gaming": 0.51,
-        "LGD Gaming (老干爹)": 0.42,
+        "LGD Gaming": 0.42,
         "Oh My God": 0.33,
         "Rogue Warriors": 0.27,
         "Royal Never Give Up": 0.6,
@@ -323,7 +323,7 @@
         "FunPlus Phoenix": 0.88,
         "Invictus Gaming": 0.54,
         "JD Gaming": 0.47,
-        "LGD Gaming (老干爹)": 0.3,
+        "LGD Gaming": 0.3,
         "LNG Esports": 0.53,
         "Oh My God": 0.21,
         "Rogue Warriors": 0.35,
@@ -357,7 +357,7 @@
         "FunPlus Phoenix": 0.68,
         "Invictus Gaming": 0.72,
         "JD Gaming": 0.72,
-        "LGD Gaming (老干爹)": 0.39,
+        "LGD Gaming": 0.39,
         "LNG Esports": 0.37,
         "Oh My God": 0.45,
         "Rogue Warriors": 0.45,
@@ -386,7 +386,7 @@
         "FunPlus Phoenix": 0.54,
         "Invictus Gaming": 0.63,
         "JD Gaming": 0.72,
-        "LGD Gaming (老干爹)": 0.55,
+        "LGD Gaming": 0.55,
         "LNG Esports": 0.36,
         "Oh My God": 0.37,
         "Rogue Warriors": 0.31,
@@ -401,7 +401,7 @@
         "FunPlus Phoenix": 0.25,
         "Invictus Gaming": 0,
         "JD Gaming": 0.56,
-        "LGD Gaming (老干爹)": 0.5,
+        "LGD Gaming": 0.5,
         "Suning": 0.43,
         "Team WE": 0.25,
         "Top Esports": 0.75,
@@ -410,7 +410,7 @@
     "2020 - Regional Finals":{
         "FunPlus Phoenix": 0.4,
         "Invictus Gaming": 0.44,
-        "LGD Gaming (老干爹)": 0.43,
+        "LGD Gaming": 0.43,
         "Suning": 1
     }
 }

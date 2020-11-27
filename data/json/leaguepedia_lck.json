@@ -1,48 +1,5 @@
 
 {
-    "2012 - Spring": {
-        "Counter Logic Gaming": ["HotshotGG","Saintvicious","bigfatlp","Doublelift","Chauster"],
-        "DDoL": ["dong","UIMangE","Hwatoo","Rigroch","Chily moon","zzamTiger"],
-        "Fnatic": ["Shushei","Cyanide","xPeke","LaMiaZeaLoT","Mellisan"],
-        "Little Hippo": ["TcAL","Leon","Kevin","5gamdo","ggoni"],
-        "CJ Entus Blaze": ["Reapered","Helios","Ambition","Cpt Jack","Lustboy"],
-        "CJ Entus Frost": ["Woong","CloudTemplar","RapidStar","Locodoco","MadLife"],
-        "MKZ": ["TowerFury","SunRiver","MidKing","losys","Frolic"],
-        "Kongdoo Monster": ["MakNooN","MOKUZA","HooN","Hiro","viNylCat"],
-        "Noobs Except Balnemse": ["ŁØAÐ","ActScene","Fascinate","Space","Yaong"],
-        "NeL": ["Rounders","Garnet","Kady","The Other","GodFather"],
-        "StarTale": ["Vitamin","kkOma","Ryu","Score","Mafa"],
-        "SuperStar": ["GoDyungi","NK Adonis","SunChip","gDeveloper","DanDy"],
-        "Team Hunters": ["Expession","Joono","Tilly","Rewrite","Nymp"],
-        "Team OP": ["Lilac","Nolja","Cornsalad","Paragon","ashart"],
-        "XD": ["Cannot","webtoon","Chicken","Mad","SmallBrain"],
-        "Xenics Storm": ["May","H0R0","ManyReason","sBs","Impact"]
-    },
-    "2012 - Summer": {
-        "CJ Entus Blaze": ["Reapered","Helios","Ambition","Cpt Jack","Lustboy"],
-        "CJ Entus Frost": ["Shy","CloudTemplar","RapidStar","Woong","MadLife"],
-        "CJ Entus": ["LongPanda","Eryuk","emboob","Pecko","Kish"],
-        "Evil Geniuses": ["Wickd","Snoopeh","Froggen","yellowpete","Boris"],
-        "Counter Logic Gaming": ["Voyboy","HotshotGG","bigfatlp","Doublelift","Chauster"],
-        "GJR": ["Warpath","yoshi","Senaim","Bird","ElecTrouble"],
-        "DRX": ["Cornsalad","Ring Troll","MidKing","Paragon","Lilac"],
-        "Samsung Blue": ["KangQui","NoFe","SunChip","Hermes","Bust"],
-        "NaJin White Shield": ["Expession","MOKUZA","HooN","Hiro","viNylCat"],
-        "NaJin Black Sword": ["MakNooN","Watch","SSONG","PraY","Cain","Sim"],
-        "Natus Vincere": ["nesrilaS","Kottenx","CitizenWayne","Antogyn","SAND"],
-        "GSG": ["Acorn","Heart","Elf","Clear","Sound"],
-        "StarTale": ["Score","Ryu","Xero","Locodoco","Mafa"],
-        "Dignitas": ["Crumbz","IWDominate","scarra","Imaqtpie","L0CUST"],
-        "Team WE": ["CaoMei","YJTM","Misaya","WeiXiao","if"],
-        "Xenics Storm": ["May","Nolja","ManyReason","sBs","Impact"]
-    },
-    "2012 - Regional Finals": {
-        "NaJin Black Sword": ["MakNooN","Watch","SSONG","PraY","Cain","Sim"],
-        "DRX": ["Cornsalad","Ring Troll","MidKing","Paragon","Lilac"],
-        "CJ Entus": ["LongPanda","inSec","dade","emboob","Kish"],
-        "Xenics Storm": ["May","Nolja","ManyReason","sBs","Impact"],
-        "CJ Entus Blaze": ["Reapered","Helios","Ambition","Cpt Jack","Lustboy"]
-    },
     "2013 - Winter": {
         "CJ Entus Blaze": ["Flame","Helios","Ambition","Cpt Jack","Lustboy"],
         "CJ Entus Frost": ["Shy","CloudTemplar","RapidStar","Woong","MadLife"],
@@ -218,7 +175,7 @@
     "2016 - Summer":{
         "Afreeca Freecs": ["ikssu", "Lindarang", "Lira", "SeongHwan", "Mickey", "Sangyoon", "SnowFlower", "OnAir", "Noex"], 
         "CJ Entus": ["Untara", "Shy", "Haru", "Bubbling", "Bdd", "Sky", "Kramer", "Ghost", "MadLife", "Reach", "Cain"], 
-        "ESC Shane": ["Crazy", "Part", "Bless", "Tempt", "LokeN", "Key", "Totoro", "Karam", "/Cho_Gye-hyeon?action=edit&redlink=1"], 
+        "ESC Shane": ["Crazy", "Part", "Bless", "Tempt", "LokeN", "Key", "Totoro", "Karam", "Cho_Gye-hyeon"], 
         "Jin Air Green Wings": ["TrAce", "SoHwan", "Winged", "Blanc", "Kuzan", "Pilot", "Chei", "Sweet(XD)", "H Dragon", "Sweet"], 
         "KT Rolster": ["Ssumday", "Score", "Fly", "Arrow", "Hachani", "FIFAHUN", "ZanDarC"], 
         "DRX": ["Expession", "Chaser", "Crash", "Coco", "Frozen", "Fury", "Emperor", "Pure", "Hirai", "Lustboy"], 

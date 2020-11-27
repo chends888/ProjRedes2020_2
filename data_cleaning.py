@@ -50,7 +50,12 @@ def build_nodes_and_edges(players_file, perf_file):
 
     # Remove duplicates maintaining order
     teams_edges = list(dict.fromkeys(teams_edges))
+    print(players_file)
     print("Players:", len(players_teams))
+    # import collections
+    # op = collections.OrderedDict(sorted(players_teams.items()))
+    # players = [x for x in op.keys()]
+    # print(players)
     print("Teams:", len(teams))
     print("Edges:", len(teams_edges))
 
